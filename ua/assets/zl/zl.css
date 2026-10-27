@@ -134,6 +134,8 @@ html::-webkit-scrollbar, body::-webkit-scrollbar { display: none; }
 .zl-body h2:first-child { margin-top: 0; }
 .zl-body p, .zl-body li { font-size: 17px; }
 .zl-body p { margin: 0 0 14px; }
+.zl-page p, .zl-page li, .zl-page summary { line-height: 1.65 !important; }
+.zl-page .zl-lead { line-height: 1.5 !important; }
 .zl-body ul, .zl-body ol { padding-left: 1.3em; margin: 0 0 16px; }
 .zl-body li { margin-bottom: 8px; }
 .zl-body a { color: var(--zl-blue); text-decoration: underline; text-underline-offset: 2px; font-weight: 600; }
