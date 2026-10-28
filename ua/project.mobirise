@@ -1303,6 +1303,12 @@
                 "margin-left": "0 !important",
                 "margin-right": "0 !important"
               }
+            },
+            "@media (max-width: 991px)": {
+              ".guide-block > .mbr-section-btn": {
+                "margin-left": "0 !important",
+                "margin-right": "0 !important"
+              }
             }
           },
           "_name": "article01",
@@ -1486,6 +1492,12 @@
               ".btn": {
                 "white-space": "normal !important",
                 "max-width": "100%"
+              }
+            },
+            "@media (max-width: 991px)": {
+              ".guide-block > .mbr-section-btn": {
+                "margin-left": "0 !important",
+                "margin-right": "0 !important"
               }
             }
           },
@@ -1695,6 +1707,22 @@
                 "width": "auto !important",
                 "max-width": "none !important",
                 "margin": "0 !important"
+              },
+              ".lists-wrapper .item-wrap a": {
+                "overflow-wrap": "break-word !important"
+              }
+            },
+            "@media (min-width: 768px)": {
+              ".lists-wrapper": {
+                "display": "grid !important",
+                "grid-template-columns": "repeat(4, minmax(0, 1fr))",
+                "column-gap": "16px"
+              },
+              ".lists-wrapper .list-wrap": {
+                "width": "auto !important",
+                "max-width": "none !important",
+                "margin": "0 !important",
+                "min-width": "0"
               },
               ".lists-wrapper .item-wrap a": {
                 "overflow-wrap": "break-word !important"
@@ -2451,6 +2479,12 @@
                 "margin-left": "0 !important",
                 "margin-right": "0 !important"
               }
+            },
+            "@media (max-width: 991px)": {
+              ".guide-block > .mbr-section-btn": {
+                "margin-left": "0 !important",
+                "margin-right": "0 !important"
+              }
             }
           },
           "_name": "list01",
@@ -2660,6 +2694,22 @@
                 "width": "auto !important",
                 "max-width": "none !important",
                 "margin": "0 !important"
+              },
+              ".lists-wrapper .item-wrap a": {
+                "overflow-wrap": "break-word !important"
+              }
+            },
+            "@media (min-width: 768px)": {
+              ".lists-wrapper": {
+                "display": "grid !important",
+                "grid-template-columns": "repeat(4, minmax(0, 1fr))",
+                "column-gap": "16px"
+              },
+              ".lists-wrapper .list-wrap": {
+                "width": "auto !important",
+                "max-width": "none !important",
+                "margin": "0 !important",
+                "min-width": "0"
               },
               ".lists-wrapper .item-wrap a": {
                 "overflow-wrap": "break-word !important"
@@ -3574,6 +3624,12 @@
                 "margin-left": "0 !important",
                 "margin-right": "0 !important"
               }
+            },
+            "@media (max-width: 991px)": {
+              ".guide-block > .mbr-section-btn": {
+                "margin-left": "0 !important",
+                "margin-right": "0 !important"
+              }
             }
           },
           "_name": "header18",
@@ -3783,6 +3839,22 @@
                 "width": "auto !important",
                 "max-width": "none !important",
                 "margin": "0 !important"
+              },
+              ".lists-wrapper .item-wrap a": {
+                "overflow-wrap": "break-word !important"
+              }
+            },
+            "@media (min-width: 768px)": {
+              ".lists-wrapper": {
+                "display": "grid !important",
+                "grid-template-columns": "repeat(4, minmax(0, 1fr))",
+                "column-gap": "16px"
+              },
+              ".lists-wrapper .list-wrap": {
+                "width": "auto !important",
+                "max-width": "none !important",
+                "margin": "0 !important",
+                "min-width": "0"
               },
               ".lists-wrapper .item-wrap a": {
                 "overflow-wrap": "break-word !important"
@@ -4672,6 +4744,12 @@
                 "margin-left": "0 !important",
                 "margin-right": "0 !important"
               }
+            },
+            "@media (max-width: 991px)": {
+              ".guide-block > .mbr-section-btn": {
+                "margin-left": "0 !important",
+                "margin-right": "0 !important"
+              }
             }
           },
           "_customHTML": "<section data-bs-version=\"5.1\" class=\"anna-profile-section\" id=\"anna-operations-profile\">\n    <div class=\"anna-container\">\n        \n        <!-- Hero Section: Profile & Lead -->\n        <div class=\"anna-hero-card\">\n            <div class=\"anna-hero-grid\">\n                <div class=\"anna-avatar-col\">\n                    <img src=\"@PROJECT_PATH@/assets/images/whatsapp-image-2026-07-26-at-6.17.22-pm.jpeg-150x150.jpg\" width=\"150\" height=\"150\" alt=\"Anna Cheishvili\" class=\"anna-profile-img\">\n                </div>\n                \n                <div class=\"anna-bio-col\">\n                    <span class=\"executive-badge\">Волонтерська команда</span>\n                    <h1 class=\"anna-name\">Анна Чеішвілі</h1>\n                    <div class=\"anna-role\">Операційна менеджерка</div>\n                    <h2 class=\"anna-tagline\">Особиста підтримка для родин на повністю волонтерських засадах.</h2>\n                    \n                    <div class=\"anna-description-box\">\n                        <p>Коли родина звертається до нас, саме Анна відповідає на дзвінок. Вона керує операційними процесами повністю на волонтерських засадах, знає кожну сім'ю на ім'я, пам'ятає, хто чекає на відповідь від якого відомства, та супроводжує їх від першого звернення й довго після переїзду в квартиру.</p>\n                        <p>Різниця між анонімною системою допомоги та особистим супроводом — це не просто гарне формулювання, це різниця між тим, щоб знову пояснювати свою історію під час кожного дзвінка, та тим, щоб написати коротке повідомлення людині, яка вже точно знає, на якому ви етапі.</p>\n                    </div>\n                </div>\n            </div>\n        </div>\n\n        <!-- Section: Services Grid -->\n        <div class=\"anna-block\">\n            <h2 class=\"anna-section-title\">\n                <span class=\"section-title-icon\">\n                    <svg width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M22 11.08V12a10 10 0 1 1-5.93-9.14\"></path><polyline points=\"22 4 12 14.01 9 11.01\"></polyline></svg>\n                </span>\n                Що включає супровід\n            </h2>\n            \n            <div class=\"services-grid\">\n                <!-- Service 1 -->\n                <div class=\"service-card\">\n                    <div class=\"card-icon\">\n                        <svg width=\"22\" height=\"22\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z\"></path></svg>\n                    </div>\n                    <h3>Особиста відповідь</h3>\n                    <p>Зручною для родини мовою, без посередників чи номерів справ.</p>\n                </div>\n\n                <!-- Service 2 -->\n                <div class=\"service-card\">\n                    <div class=\"card-icon\">\n                        <svg width=\"22\" height=\"22\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M3 21h18\"></path><path d=\"M3 10h18\"></path><path d=\"M5 6l7-3 7 3\"></path><path d=\"M4 10v11\"></path><path d=\"M20 10v11\"></path><path d=\"M8 14v3\"></path><path d=\"M12 14v3\"></path><path d=\"M16 14v3\"></path></svg>\n                    </div>\n                    <h3>Координація з органами влади</h3>\n                    <p>Подача заявок, перевірка статусу та роз'яснення вимог місцевих установ.</p>\n                </div>\n\n                <!-- Service 3 -->\n                <div class=\"service-card\">\n                    <div class=\"card-icon\">\n                        <svg width=\"22\" height=\"22\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z\"></path><polyline points=\"14 2 14 8 20 8\"></polyline><line x1=\"16\" y1=\"13\" x2=\"8\" y2=\"13\"></line><line x1=\"16\" y1=\"17\" x2=\"8\" y2=\"17\"></line></svg>\n                    </div>\n                    <h3>Пояснення документів</h3>\n                    <p>Зрозумілі роз'яснення щодо отриманих поштою листів — терміни, вимоги та наступні кроки.</p>\n                </div>\n\n                <!-- Service 4 -->\n                <div class=\"service-card\">\n                    <div class=\"card-icon\">\n                        <svg width=\"22\" height=\"22\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"2\" y=\"7\" width=\"20\" height=\"14\" rx=\"2\" ry=\"2\"></rect><path d=\"M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16\"></path></svg>\n                    </div>\n                    <h3>Процеси в Jobcenter</h3>\n                    <p>Підготовка до зустрічей, роз'яснення правил та відстеження офіційних дозволів на житло.</p>\n                </div>\n\n                <!-- Service 5 -->\n                <div class=\"service-card\">\n                    <div class=\"card-icon\">\n                        <svg width=\"22\" height=\"22\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7\"></path><path d=\"M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z\"></path></svg>\n                    </div>\n                    <h3>Допомога з Anmeldung</h3>\n                    <p>Які документи мати з собою, запис на прийом та вирішення питань із відсутніми паперами.</p>\n                </div>\n\n                <!-- Service 6 -->\n                <div class=\"service-card\">\n                    <div class=\"card-icon\">\n                        <svg width=\"22\" height=\"22\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M22 10v6M2 10l10-5 10 5-10 5z\"></path><path d=\"M6 12v5c3 3 9 3 12 0v-5\"></path></svg>\n                    </div>\n                    <h3>Освітні заклади</h3>\n                    <p>Запис дітей до шкіл та дитячих садків, а також координація з навчальними закладами.</p>\n                </div>\n\n                <!-- Service 7 -->\n                <div class=\"service-card\">\n                    <div class=\"card-icon\">\n                        <svg width=\"22\" height=\"22\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"m5 8 6 6\"></path><path d=\"m4 14 6-6 2 3\"></path><path d=\"M2 5h12\"></path><path d=\"M7 2h1\"></path><path d=\"m22 22-5-10-5 10\"></path><path d=\"M14 18h6\"></path></svg>\n                    </div>\n                    <h3>Перекладачі</h3>\n                    <p>Залучення кваліфікованих перекладачів для важливих офіційних зустрічей та оформлення документів.</p>\n                </div>\n\n                <!-- Service 8 -->\n                <div class=\"service-card\">\n                    <div class=\"card-icon\">\n                        <svg width=\"22\" height=\"22\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"16.5\" y1=\"9.4\" x2=\"7.5\" y2=\"4.21\"></line><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"></path><polyline points=\"3.27 6.96 12 12.01 20.73 6.96\"></polyline><line x1=\"12\" y1=\"22.08\" x2=\"12\" y2=\"12\"></line></svg>\n                    </div>\n                    <h3>Організація переїзду</h3>\n                    <p>Облаштування після переїзду — договори на електроенергію та інтернет, медичне страхування та меблі.</p>\n                </div>\n\n                <!-- Service 9 -->\n                <div class=\"service-card\">\n                    <div class=\"card-icon\">\n                        <svg width=\"22\" height=\"22\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2\"></path><circle cx=\"9\" cy=\"7\" r=\"4\"></circle><path d=\"M23 21v-2a4 4 0 0 0-3-3.87\"></path><path d=\"M16 3.13a4 4 0 0 1 0 7.75\"></path></svg>\n                    </div>\n                    <h3>Зв'язок із громадою</h3>\n                    <p>Інтеграція в місцеву спільноту та спілкування з іншими родинами, які вже пройшли цей шлях.</p>\n                </div>\n            </div>\n        </div>\n\n        <!-- Section: In-Depth Operational Principles -->\n        <div class=\"anna-block\">\n            <div class=\"details-cards-stack\">\n                \n                <!-- Card 1: WhatsApp & Emergency Notice -->\n                <div class=\"detail-card\">\n                    <div class=\"card-title-group\">\n                        <div class=\"card-title-icon blue\">\n                            <svg width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M15 14c.2-1 .7-1.7 1.5-2.5 1-.9 1.5-2.2 1.5-3.5A6 6 0 0 0 6 8c0 1 .2 2.2 1.5 3.5.7.7 1.3 1.5 1.5 2.5\"></path><path d=\"M9 18h6\"></path><path d=\"M10 22h4\"></path></svg>\n                        </div>\n                        <h3>Як це працює на практиці</h3>\n                    </div>\n                    <p>Більшість спілкування відбувається у WhatsApp для вашої зручності. Листи від Jobcenter можна сфотографувати, надіслати та отримати роз'яснення простою мовою — що саме вимагається та які кроки слід зробити.</p>\n                    <p>Анна залишається на зв'язку протягом дня, але, будь ласка, зверніть увагу, що це не є офіційною гарячою лінією екстреної допомоги. У періоди високого навантаження відповіді можуть надходити пізніше ввечері.</p>\n                    \n                    <div class=\"alert-box red-alert\">\n                        <div class=\"alert-icon\">\n                            <svg width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polygon points=\"7.86 2 16.14 2 22 7.86 22 16.14 16.14 22 7.86 22 2 16.14 2 7.86 7.86 2\"></polygon><line x1=\"12\" y1=\"8\" x2=\"12\" y2=\"12\"></line><line x1=\"12\" y1=\"16\" x2=\"12.01\" y2=\"16\"></line></svg>\n                        </div>\n                        <div>\n                            <strong>Протокол для екстрених ситуацій:</strong> У разі виникнення безпосередньої небезпеки слід негайно звертатися до офіційних екстрених служб Німеччини за номерами <strong>112</strong> або <strong>110</strong>. Не чекайте на відповідь від нашей команди.\n                        </div>\n                    </div>\n                </div>\n\n                <!-- Card 2: Long-Term Support -->\n                <div class=\"detail-card\">\n                    <div class=\"card-title-group\">\n                        <div class=\"card-title-icon green\">\n                            <svg width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z\"></path><polyline points=\"9 22 9 12 15 12 15 22\"></polyline></svg>\n                        </div>\n                        <h3>Супровід і після переїзду</h3>\n                    </div>\n                    <p>Перші місяці після переїзду в квартиру часто є найскладнішими. Оселившись, родини зіштовхуються з оформленням договорів на електроенергію та газ, питаннями медичного страхування та офіційною кореспонденцією за новою адресою.</p>\n                    <p>Анна продовжує підтримувати сім'ї протягом багатьох місяців проживання. Навіть самостійні родини час від часу пишуть із запитаннями, знаючи, що двері завжди відчинені, коли потрібна порада.</p>\n                </div>\n\n                <!-- Card 3: Empowerment Approach -->\n                <div class=\"detail-card\">\n                    <div class=\"card-title-group\">\n                        <div class=\"card-title-icon amber\">\n                            <svg width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z\"></path></svg>\n                        </div>\n                        <h3>Наш підхід: повернення автономії</h3>\n                    </div>\n                    <p>Ми не приймаємо рішення за родини. Анна пропонує варіанти, пояснює наслідки та надає рекомендації — але остаточне право вибору завжди залишається за сім'єю.</p>\n                    <p>Родини, які відновлюються після війни та переїзду, пережили значну втрату контролю над власним життям. Наша місія — повернути їм автономію, а не нав'язувати додатковий зовнішній контроль.</p>\n                </div>\n\n                <!-- Card 4: Free of Charge -->\n                <div class=\"detail-card highlight-card\">\n                    <div class=\"card-title-group\">\n                        <div class=\"card-title-icon purple\">\n                            <svg width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M12 2v20M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6\"></path></svg>\n                        </div>\n                        <h3>На 100% безкоштовно</h3>\n                    </div>\n                    <p>Усі послуги з супроводу, якими опікується Анна, надаються виключно на волонтерських засадах і є абсолютно безкоштовними. На жодному етапі немає жодних комісій за консультації, обробку документів чи агентських зборів.</p>\n                    <p>Прямі платежі за комунальні послуги, інтернет чи оренду житла сплачуються безпосередньо відповідним організаціям і ніколи не проходять через нас.</p>\n                </div>\n\n            </div>\n        </div>\n\n        <!-- CTA Section -->\n        <div class=\"anna-cta-block\">\n            <h3>Зв'язатися з Анною напряму</h3>\n            <p>Ви можете звернутися українською, російською або німецькою мовою.</p>\n            \n            <div class=\"mbr-section-btn\" mbr-buttons=\"true\" mbr-theme-style=\"display-7\"><a class=\"btn custom-btn whatsapp-btn btn-warning\" href=\"https://wa.me/380637004615\" data-app-placeholder=\"Type Text\">\n                    <svg width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z\"></path></svg>\n                    WhatsApp Анна\n                </a>\n                <a class=\"btn btn-primary custom-btn email-btn\" href=\"Contact.html#footer4-19\" data-app-placeholder=\"Type Text\">\n                    <svg width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z\"></path><polyline points=\"22,6 12,13 2,6\"></polyline></svg>\n                    Надіслати email\n                </a></div>\n        </div>\n\n    </div>\n</section>",
@@ -4880,6 +4958,22 @@
                 "width": "auto !important",
                 "max-width": "none !important",
                 "margin": "0 !important"
+              },
+              ".lists-wrapper .item-wrap a": {
+                "overflow-wrap": "break-word !important"
+              }
+            },
+            "@media (min-width: 768px)": {
+              ".lists-wrapper": {
+                "display": "grid !important",
+                "grid-template-columns": "repeat(4, minmax(0, 1fr))",
+                "column-gap": "16px"
+              },
+              ".lists-wrapper .list-wrap": {
+                "width": "auto !important",
+                "max-width": "none !important",
+                "margin": "0 !important",
+                "min-width": "0"
               },
               ".lists-wrapper .item-wrap a": {
                 "overflow-wrap": "break-word !important"
@@ -5878,6 +5972,12 @@
                 "margin-left": "0 !important",
                 "margin-right": "0 !important"
               }
+            },
+            "@media (max-width: 991px)": {
+              ".guide-block > .mbr-section-btn": {
+                "margin-left": "0 !important",
+                "margin-right": "0 !important"
+              }
             }
           },
           "_name": "article08",
@@ -6087,6 +6187,22 @@
                 "width": "auto !important",
                 "max-width": "none !important",
                 "margin": "0 !important"
+              },
+              ".lists-wrapper .item-wrap a": {
+                "overflow-wrap": "break-word !important"
+              }
+            },
+            "@media (min-width: 768px)": {
+              ".lists-wrapper": {
+                "display": "grid !important",
+                "grid-template-columns": "repeat(4, minmax(0, 1fr))",
+                "column-gap": "16px"
+              },
+              ".lists-wrapper .list-wrap": {
+                "width": "auto !important",
+                "max-width": "none !important",
+                "margin": "0 !important",
+                "min-width": "0"
               },
               ".lists-wrapper .item-wrap a": {
                 "overflow-wrap": "break-word !important"
@@ -7033,6 +7149,12 @@
                 "margin-left": "0 !important",
                 "margin-right": "0 !important"
               }
+            },
+            "@media (max-width: 991px)": {
+              ".guide-block > .mbr-section-btn": {
+                "margin-left": "0 !important",
+                "margin-right": "0 !important"
+              }
             }
           },
           "_name": "list01",
@@ -7217,6 +7339,12 @@
               ".btn": {
                 "white-space": "normal !important",
                 "max-width": "100%"
+              }
+            },
+            "@media (max-width: 991px)": {
+              ".guide-block > .mbr-section-btn": {
+                "margin-left": "0 !important",
+                "margin-right": "0 !important"
               }
             }
           },
@@ -7426,6 +7554,22 @@
                 "width": "auto !important",
                 "max-width": "none !important",
                 "margin": "0 !important"
+              },
+              ".lists-wrapper .item-wrap a": {
+                "overflow-wrap": "break-word !important"
+              }
+            },
+            "@media (min-width: 768px)": {
+              ".lists-wrapper": {
+                "display": "grid !important",
+                "grid-template-columns": "repeat(4, minmax(0, 1fr))",
+                "column-gap": "16px"
+              },
+              ".lists-wrapper .list-wrap": {
+                "width": "auto !important",
+                "max-width": "none !important",
+                "margin": "0 !important",
+                "min-width": "0"
               },
               ".lists-wrapper .item-wrap a": {
                 "overflow-wrap": "break-word !important"
@@ -8386,6 +8530,12 @@
                 "margin-left": "0 !important",
                 "margin-right": "0 !important"
               }
+            },
+            "@media (max-width: 991px)": {
+              ".guide-block > .mbr-section-btn": {
+                "margin-left": "0 !important",
+                "margin-right": "0 !important"
+              }
             }
           },
           "_customHTML": "<section data-bs-version=\"5.1\" class=\"guide-executive-section\" id=\"services-guide\">\n    <div class=\"executive-container\">\n        \n        <!-- Header -->\n        <header class=\"guide-header\">\n            <span class=\"header-tag\">НАШІ ПОСЛУГИ</span>\n            <h1 class=\"header-title\">Чим ми насправді займаємося</h1>\n            <p class=\"header-lead\">\n                Комплексна соціальна підтримка для родин з України у Північній Баварії — безкоштовно, залежно від нашої завантаженості та можливостей.\n            </p>\n        </header>\n\n        <!-- General Disclaimer / Notice -->\n        <div class=\"disclaimer-banner\">\n            <div class=\"disclaimer-icon\">\n                <svg width=\"22\" height=\"22\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2\"></path><circle cx=\"9\" cy=\"7\" r=\"4\"></circle><path d=\"M22 21v-2a4 4 0 0 0-3-3.87\"></path><path d=\"M16 3.13a4 4 0 0 1 0 7.75\"></path></svg>\n            </div>\n            <div class=\"disclaimer-text\">\n                <strong>Важливе зауваження:</strong> Перелічені нижче послуги надаються на волонтерських засадах і залежать від нашої завантаженості та можливостей у конкретний момент. У кожному випадку ми прагнемо чесно й одразу сказати, що є реалістичним. Ми вважаємо, що краще дати чесну та швидку відповідь, ніж залишати вас із марними очікуваннями.\n            </div>\n        </div>\n\n        <!-- Section 1: Housing & Jobcenter (The Big Pillars) -->\n        <div class=\"guide-block\">\n            <h2 class=\"block-title\">\n                <span class=\"title-icon\">\n                    <svg width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z\"></path><polyline points=\"9 22 9 12 15 12 15 22\"></polyline></svg>\n                </span> \n                Житло та фінансова підтримка\n            </h2>\n            \n            <!-- Housing Card -->\n            <div class=\"guide-card\">\n                <div class=\"card-header\">\n                    <h3>Пошук житлових рішень</h3>\n                    <span class=\"status-tag info\">Основна послуга</span>\n                </div>\n                <p>Частина квартир перебуває під безпосереднім управлінням у межах нашої ініціативи. В інших випадках ми допомагаємо знайти відповідне житло через орендодавців та управляючі компанії регіону й координуємо процес — пояснюємо орендодавцю всі деталі, залученість Jobcenter та які саме документи від нього потрібні.</p>\n                \n                <div class=\"card-details-grid\">\n                    <div class=\"detail-box\">\n                        <h4>Для кого це?</h4>\n                        <p>Для родин та приватних осіб, які вже перебувають у регіоні нашої діяльності або планують сюди переїхати.</p>\n                    </div>\n                    <div class=\"detail-box\">\n                        <h4>Що вказати у вашому зверненні:</h4>\n                        <p>Кількість осіб та вік дітей, місто, де ви зараз перебуваєте, часові рамки, коли потрібне рішення, та ваш статус у Jobcenter (якщо є).</p>\n                    </div>\n                </div>\n\n                <div class=\"rule-box danger-rule\">\n                    <div class=\"rule-header\">\n                        <svg class=\"rule-icon\" width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3z\"></path><line x1=\"12\" y1=\"9\" x2=\"12\" y2=\"13\"></line><line x1=\"12\" y1=\"17\" x2=\"12.01\" y2=\"17\"></line></svg>\n                        <h3>Важливо знати</h3>\n                    </div>\n                    <p>Ми не можемо гарантувати обов'язковий пошук квартири. Наявність вільних варіантів суттєво змінюється залежно від періоду та міста, і іноді відповідного житла в регіоні просто немає. Ми повідомляємо про це одразу і не змушуємо вас марно чекати.</p>\n                </div>\n            </div>\n\n            <!-- Jobcenter Card -->\n            <div class=\"guide-card\">\n                <div class=\"card-header\">\n                    <h3>Підтримка з Jobcenter</h3>\n                    <span class=\"status-tag info\">Бюрократична допомога</span>\n                </div>\n                <p>Загальний супровід процесів, допомога в розумінні отриманих листів, підготовка до зустрічей, координація з вашим куратором (Caseworker), залучення перекладача за потреби та підтримка під час процедури затвердження житла.</p>\n                \n                <div class=\"detail-box detail-box-spacing\">\n                    <h4>Що це включає на практиці:</h4>\n                    <p>Пояснення того, що саме від вас вимагають, визначення відсутніх документів, розшифровка змісту отриманих листів та роз'яснення, чому важливо відповісти вчасно.</p>\n                </div>\n\n                <div class=\"rule-box info-rule\">\n                    <div class=\"rule-header\">\n                        <svg class=\"rule-icon\" width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M15 14c.2-1 .7-1.7 1.5-2.5 1-.9 1.5-2.2 1.5-3.5A6 6 0 0 0 6 8c0 1 .2 2.2 1.5 3.5.7.7 1.3 1.5 1.5 2.5\"></path><path d=\"M9 18h6\"></path><path d=\"M10 22h4\"></path></svg>\n                        <h3>Важливо знати</h3>\n                    </div>\n                    <p>Усі рішення приймаються виключно Jobcenter. Ми не гарантуємо схвалення виплат, їхній розмір чи терміни розгляду, а також не надаємо юридичних консультацій. Наше завдання — переконатися, що ви розумієте процес і підготовлені до нього.</p>\n                </div>\n            </div>\n        </div>\n\n        <!-- Section 2: Registrations & Education (2 Columns) -->\n        <div class=\"guide-block\">\n            <h2 class=\"block-title\">\n                <span class=\"title-icon\">\n                    <svg width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M22 10v6M2 10l10-5 10 5-10 5z\"></path><path d=\"M6 12v5c3 3 9 3 12 0v-5\"></path></svg>\n                </span> \n                Реєстрація та освіта\n            </h2>\n            \n            <div class=\"two-column-grid\">\n                <!-- Anmeldung -->\n                <div class=\"guide-subcard\">\n                    <h3>Anmeldung (Реєстрація місця проживання)</h3>\n                    <p>Реєстрація адреси в місцевих органах влади — це базовий крок, від якого залежить майже все інше: медична страховка, відкриття банківського рахунку, виплати, запис до школи та іноді навіть офіційний договір оренди.</p>\n                    <p>Ми пояснюємо базові вимоги, допомагаємо записатися на прийом (Termin) до державних установ та підказуємо, як діяти у разі відсутності певного документа або якщо найближчий запис доступний лише задовго.</p>\n                    <div class=\"notice-highlight\">\n                        <strong>Важливо:</strong> Вимоги та терміни різняться залежно від міста та установи. Наша інформація має загальний характер і базується на місцевому досвіді; її необхідно перевіряти в конкретному органі влади.\n                    </div>\n                </div>\n\n                <!-- Schools -->\n                <div class=\"guide-subcard\">\n                    <h3>Запис до школи</h3>\n                    <p>Допомога у підборі навчального закладу відповідно до віку та рівня володіння мовою вашої дитини, пояснення переліку документів, переклад та координація зі школою.</p>\n                    <p>У багатьох випадках також потрібна попередня розмова зі шкільним персоналом щодо мовних класів або спеціальної навчальної підтримки.</p>\n                    <div class=\"notice-highlight\">\n                        <strong>Важливо:</strong> Розподіл по школах здійснюється органами влади та самими навчальними закладами. Ми можемо супроводжувати та пояснювати процес, але не впливаємо на остаточне рішення.\n                    </div>\n                </div>\n\n                <!-- Kindergarten -->\n                <div class=\"guide-subcard\">\n                    <h3>Запис до дитячого садка (Kindergarten)</h3>\n                    <p>Кількість місць у дитячих садках регіону обмежена, а в деяких містах черга може тривати місяцями. Ми допомагаємо розібратися з процедурою, подати заявку, координуємо зв'язок та шукаємо альтернативи в сусідніх містах.</p>\n                    <div class=\"rule-box mail-rule subcard-rule\">\n                        <strong>Важливо:</strong> Ми не можемо гарантувати наявність місця. У певні періоди чесна відповідь полягає в тому, що вільних місць наразі немає.\n                    </div>\n                </div>\n\n                <!-- Translation -->\n                <div class=\"guide-subcard\">\n                    <h3>Українсько-німецький переклад</h3>\n                    <p>Залучення перекладачів для особливо важливих зустрічей — у Jobcenter, органах влади, школі, у лікаря — та для перекладу документів, зміст яких потребує абсолютної точності.</p>\n                    <div class=\"notice-highlight\">\n                        <strong>Важливо:</strong> Перекладачі працюють на волонтерських засадах, і їхня доступність залежить від особистого графіку. Чим раніше ви звернетеся, тим вища ймовірність отримати допомогу в потрібний час.\n                    </div>\n                </div>\n            </div>\n        </div>\n\n        <!-- Section 3: Living & Community (3 Columns) -->\n        <div class=\"guide-block\">\n            <h2 class=\"block-title\">\n                <span class=\"title-icon\">\n                    <svg width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M20 9v11a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V9\"></path><path d=\"M9 22V12h6v10\"></path><path d=\"M2 10.6L12 2l10 8.6\"></path></svg>\n                </span> \n                Побут, спільнота та тривала підтримка\n            </h2>\n            \n            <div class=\"three-column-grid\">\n                <!-- Furniture -->\n                <div class=\"guide-mini-card\">\n                    <div class=\"mini-icon\">\n                        <svg width=\"22\" height=\"22\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M20 12V8H4v4\"></path><path d=\"M2 12h20v4a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2v-4z\"></path><path d=\"M6 18v3\"></path><path d=\"M18 18v3\"></path></svg>\n                    </div>\n                    <h3>Базові меблі та обладнання</h3>\n                    <p>У певних випадках ми можемо допомогти з базовими меблями, побутовими речами та першочерговим обладнанням — ліжка, стіл, стільці, кухонне приладдя. Це повністю залежить від того, що було передано як пожертва та є в наявності, іноді за сприяння інших родин спільноти, які переїхали або оновили речі.</p>\n                    <p class=\"mini-card-note\"><strong>Примітка:</strong> Йдеться про функціональні вживані речі (Second-hand), а не про нові товари; наявність суттєво змінюється протягом року.</p>\n                </div>\n\n                <!-- Post-Move-In -->\n                <div class=\"guide-mini-card\">\n                    <div class=\"mini-icon\">\n                        <svg width=\"22\" height=\"22\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"7.5\" cy=\"15.5\" r=\"5.5\"></circle><path d=\"m21 2-9.6 9.6\"></path><path d=\"m15.5 7.5 3 3L22 7l-3-3\"></path></svg>\n                    </div>\n                    <h3>Підтримка після переїзду</h3>\n                    <p>Наша допомога не закінчується після отримання ключів. Ми продовжуємо супроводжувати вас у підключенні електроенергії, газу та інтернету, оформленні медичного страхування, розшифровці офіційних листів на нову адресу, взаємодії з сусідами та роз'ясненні правил проживання в Німеччині — питанні, яке здається дрібницею, поки не виникають реальні непорозуміння.</p>\n                </div>\n\n                <!-- Community -->\n                <div class=\"guide-mini-card\">\n                    <div class=\"mini-icon\">\n                        <svg width=\"22\" height=\"22\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2\"></path><circle cx=\"9\" cy=\"7\" r=\"4\"></circle><path d=\"M23 21v-2a4 4 0 0 0-3-3.87\"></path><path d=\"M16 3.13a4 4 0 0 1 0 7.75\"></path></svg>\n                    </div>\n                    <h3>Зв'язок зі спільнотою</h3>\n                    <p>Ми сприяємо організації зустрічей, місцевих WhatsApp-груп, обміну речами та налагодженню контактів між родинами, які живуть тут довше, та новоприбулими. Часто найкращу відповідь на запитання дає саме та родина, яка пройшла цей шлях пів року тому в тому ж самому місті.</p>\n                </div>\n            </div>\n        </div>\n\n        <!-- Extreme Cases -->\n        <div class=\"guide-block extreme-block\">\n            <div class=\"guide-card extreme-card\">\n                <div class=\"extreme-header\">\n                    <svg width=\"22\" height=\"22\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"10\"></circle><path d=\"m4.93 4.93 4.24 4.24\"></path><path d=\"m14.83 9.17 4.24-4.24\"></path><path d=\"m14.83 14.83 4.24 4.24\"></path><path d=\"m9.17 14.83-4.24 4.24\"></path><circle cx=\"12\" cy=\"12\" r=\"4\"></circle></svg>\n                    <h3>Допомога у надзвичайних ситуаціях</h3>\n                </div>\n                <p>У виняткових випадках — таких як гостра нестача продуктів харчування, базового одягу чи інших невідкладних потреб — допомога надається відповідно до наших можливостей та конкретних обставин справи. Кожна така ситуація розглядається індивідуально та суворо конфіденційно.</p>\n            </div>\n        </div>\n\n        <!-- Section 4: Summary & CTA -->\n        <div class=\"guide-block\">\n            <div class=\"guide-card summary-cta-card\">\n                <h3 class=\"summary-title\">Підсумок та важливі вказівки</h3>\n                <p class=\"summary-text\">\n                    <strong>Щодо всіх послуг:</strong> Соціальна підтримка надається повністю безкоштовно та виключно на волонтерських засадах. Можливі сторонні платежі на користь державних органів, постачальників послуг або орендодавців — вони сплачуються їм напряму і за жодних обставин не проходять через нашу ініціативу.\n                </p>\n                <p class=\"summary-tagline\">\n                    Не впевнені, чи ми є відповідною адресою для вашого запитання? Все одно напишіть нам — ми чесно скажемо, чи зможемо допомогти.\n                </p>\n                \n                <!-- BUTTONS (Mobirise Compatible) -->\n                <div class=\"mbr-section-btn cta-buttons-wrapper\" mbr-buttons=\"true\" mbr-theme-style=\"display-7\"><a class=\"btn custom-btn whatsapp-btn display-4 btn-warning\" href=\"request-assistance.html\" data-app-placeholder=\"Type Text\">\n                        <svg width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z\"></path></svg>\n                        WhatsApp Анна\n                    </a> \n                    <a class=\"btn btn-primary custom-btn outline-btn display-4\" href=\"living-in-germany.html\" data-app-placeholder=\"Type Text\">\n                        <svg width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z\"></path><path d=\"M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z\"></path></svg>\n                        Гайд: Життя в Німеччині\n                    </a></div>\n            </div>\n        </div>\n    </div>\n</section>",
@@ -8594,6 +8744,22 @@
                 "width": "auto !important",
                 "max-width": "none !important",
                 "margin": "0 !important"
+              },
+              ".lists-wrapper .item-wrap a": {
+                "overflow-wrap": "break-word !important"
+              }
+            },
+            "@media (min-width: 768px)": {
+              ".lists-wrapper": {
+                "display": "grid !important",
+                "grid-template-columns": "repeat(4, minmax(0, 1fr))",
+                "column-gap": "16px"
+              },
+              ".lists-wrapper .list-wrap": {
+                "width": "auto !important",
+                "max-width": "none !important",
+                "margin": "0 !important",
+                "min-width": "0"
               },
               ".lists-wrapper .item-wrap a": {
                 "overflow-wrap": "break-word !important"
@@ -9441,9 +9607,43 @@
               "display": "none"
             },
             ".zl-rail > .zl-tile": {
-              "flex": "0 0 calc((100% - 48px) / 4)",
+              "flex": "0 0 calc((100% - 48px) / 3.6)",
               "min-width": "230px",
               "scroll-snap-align": "start"
+            },
+            ".zl-rail-wrap": {
+              "position": "relative"
+            },
+            ".zl-rail-btn": {
+              "position": "absolute",
+              "top": "calc(50% - 30px)",
+              "z-index": "2",
+              "width": "44px",
+              "height": "44px",
+              "border-radius": "50%",
+              "border": "1px solid #e2e8f0",
+              "background": "#fff",
+              "color": "#0c2c68",
+              "display": "grid",
+              "place-items": "center",
+              "cursor": "pointer",
+              "box-shadow": "0 6px 18px rgba(15, 23, 42, .14)"
+            },
+            ".zl-rail-btn svg": {
+              "width": "20px",
+              "height": "20px"
+            },
+            ".zl-rail-btn:hover": {
+              "background": "#e0e7ff"
+            },
+            ".zl-rail-btn[hidden]": {
+              "display": "none"
+            },
+            ".zl-rail-prev": {
+              "left": "4px"
+            },
+            ".zl-rail-next": {
+              "right": "4px"
             },
             ".zl-rail .zl-tile h3": {
               "font-size": "17px"
@@ -9493,6 +9693,9 @@
                 "-webkit-line-clamp": "2",
                 "font-size": "14px"
               },
+              ".zl-rail-btn": {
+                "display": "none"
+              },
               ".zl-cat": {
                 "font-size": "19px",
                 "margin-top": "22px"
@@ -9531,6 +9734,12 @@
             },
             ".portal-footer-reminder.portal-footer-reminder h3, .footer-numbers-grid.footer-numbers-grid strong, .footer-numbers-grid.footer-numbers-grid a": {
               "color": "#fff !important"
+            },
+            "@media (max-width: 991px)": {
+              ".guide-block > .mbr-section-btn": {
+                "margin-left": "0 !important",
+                "margin-right": "0 !important"
+              }
             }
           },
           "_name": "header12",
@@ -9738,6 +9947,22 @@
                 "width": "auto !important",
                 "max-width": "none !important",
                 "margin": "0 !important"
+              },
+              ".lists-wrapper .item-wrap a": {
+                "overflow-wrap": "break-word !important"
+              }
+            },
+            "@media (min-width: 768px)": {
+              ".lists-wrapper": {
+                "display": "grid !important",
+                "grid-template-columns": "repeat(4, minmax(0, 1fr))",
+                "column-gap": "16px"
+              },
+              ".lists-wrapper .list-wrap": {
+                "width": "auto !important",
+                "max-width": "none !important",
+                "margin": "0 !important",
+                "min-width": "0"
               },
               ".lists-wrapper .item-wrap a": {
                 "overflow-wrap": "break-word !important"
@@ -10634,6 +10859,12 @@
                 "margin-left": "0 !important",
                 "margin-right": "0 !important"
               }
+            },
+            "@media (max-width: 991px)": {
+              ".guide-block > .mbr-section-btn": {
+                "margin-left": "0 !important",
+                "margin-right": "0 !important"
+              }
             }
           },
           "_name": "article07",
@@ -10843,6 +11074,22 @@
                 "width": "auto !important",
                 "max-width": "none !important",
                 "margin": "0 !important"
+              },
+              ".lists-wrapper .item-wrap a": {
+                "overflow-wrap": "break-word !important"
+              }
+            },
+            "@media (min-width: 768px)": {
+              ".lists-wrapper": {
+                "display": "grid !important",
+                "grid-template-columns": "repeat(4, minmax(0, 1fr))",
+                "column-gap": "16px"
+              },
+              ".lists-wrapper .list-wrap": {
+                "width": "auto !important",
+                "max-width": "none !important",
+                "margin": "0 !important",
+                "min-width": "0"
               },
               ".lists-wrapper .item-wrap a": {
                 "overflow-wrap": "break-word !important"
@@ -11714,6 +11961,12 @@
                 "margin-left": "0 !important",
                 "margin-right": "0 !important"
               }
+            },
+            "@media (max-width: 991px)": {
+              ".guide-block > .mbr-section-btn": {
+                "margin-left": "0 !important",
+                "margin-right": "0 !important"
+              }
             }
           },
           "_name": "header02",
@@ -11924,6 +12177,22 @@
                 "width": "auto !important",
                 "max-width": "none !important",
                 "margin": "0 !important"
+              },
+              ".lists-wrapper .item-wrap a": {
+                "overflow-wrap": "break-word !important"
+              }
+            },
+            "@media (min-width: 768px)": {
+              ".lists-wrapper": {
+                "display": "grid !important",
+                "grid-template-columns": "repeat(4, minmax(0, 1fr))",
+                "column-gap": "16px"
+              },
+              ".lists-wrapper .list-wrap": {
+                "width": "auto !important",
+                "max-width": "none !important",
+                "margin": "0 !important",
+                "min-width": "0"
               },
               ".lists-wrapper .item-wrap a": {
                 "overflow-wrap": "break-word !important"
@@ -12926,6 +13195,12 @@
                 "margin-left": "0 !important",
                 "margin-right": "0 !important"
               }
+            },
+            "@media (max-width: 991px)": {
+              ".guide-block > .mbr-section-btn": {
+                "margin-left": "0 !important",
+                "margin-right": "0 !important"
+              }
             }
           },
           "_name": "people04",
@@ -13135,6 +13410,22 @@
                 "width": "auto !important",
                 "max-width": "none !important",
                 "margin": "0 !important"
+              },
+              ".lists-wrapper .item-wrap a": {
+                "overflow-wrap": "break-word !important"
+              }
+            },
+            "@media (min-width: 768px)": {
+              ".lists-wrapper": {
+                "display": "grid !important",
+                "grid-template-columns": "repeat(4, minmax(0, 1fr))",
+                "column-gap": "16px"
+              },
+              ".lists-wrapper .list-wrap": {
+                "width": "auto !important",
+                "max-width": "none !important",
+                "margin": "0 !important",
+                "min-width": "0"
               },
               ".lists-wrapper .item-wrap a": {
                 "overflow-wrap": "break-word !important"
@@ -13959,6 +14250,12 @@
                 "margin-left": "0 !important",
                 "margin-right": "0 !important"
               }
+            },
+            "@media (max-width: 991px)": {
+              ".guide-block > .mbr-section-btn": {
+                "margin-left": "0 !important",
+                "margin-right": "0 !important"
+              }
             }
           },
           "_name": "header19",
@@ -14168,6 +14465,22 @@
                 "width": "auto !important",
                 "max-width": "none !important",
                 "margin": "0 !important"
+              },
+              ".lists-wrapper .item-wrap a": {
+                "overflow-wrap": "break-word !important"
+              }
+            },
+            "@media (min-width: 768px)": {
+              ".lists-wrapper": {
+                "display": "grid !important",
+                "grid-template-columns": "repeat(4, minmax(0, 1fr))",
+                "column-gap": "16px"
+              },
+              ".lists-wrapper .list-wrap": {
+                "width": "auto !important",
+                "max-width": "none !important",
+                "margin": "0 !important",
+                "min-width": "0"
               },
               ".lists-wrapper .item-wrap a": {
                 "overflow-wrap": "break-word !important"
@@ -15006,6 +15319,12 @@
                 "margin-left": "0 !important",
                 "margin-right": "0 !important"
               }
+            },
+            "@media (max-width: 991px)": {
+              ".guide-block > .mbr-section-btn": {
+                "margin-left": "0 !important",
+                "margin-right": "0 !important"
+              }
             }
           },
           "_name": "slider05",
@@ -15216,6 +15535,22 @@
                 "width": "auto !important",
                 "max-width": "none !important",
                 "margin": "0 !important"
+              },
+              ".lists-wrapper .item-wrap a": {
+                "overflow-wrap": "break-word !important"
+              }
+            },
+            "@media (min-width: 768px)": {
+              ".lists-wrapper": {
+                "display": "grid !important",
+                "grid-template-columns": "repeat(4, minmax(0, 1fr))",
+                "column-gap": "16px"
+              },
+              ".lists-wrapper .list-wrap": {
+                "width": "auto !important",
+                "max-width": "none !important",
+                "margin": "0 !important",
+                "min-width": "0"
               },
               ".lists-wrapper .item-wrap a": {
                 "overflow-wrap": "break-word !important"
@@ -15958,6 +16293,12 @@
                 "margin-left": "0 !important",
                 "margin-right": "0 !important"
               }
+            },
+            "@media (max-width: 991px)": {
+              ".guide-block > .mbr-section-btn": {
+                "margin-left": "0 !important",
+                "margin-right": "0 !important"
+              }
             }
           },
           "_name": "features05",
@@ -16168,6 +16509,22 @@
                 "width": "auto !important",
                 "max-width": "none !important",
                 "margin": "0 !important"
+              },
+              ".lists-wrapper .item-wrap a": {
+                "overflow-wrap": "break-word !important"
+              }
+            },
+            "@media (min-width: 768px)": {
+              ".lists-wrapper": {
+                "display": "grid !important",
+                "grid-template-columns": "repeat(4, minmax(0, 1fr))",
+                "column-gap": "16px"
+              },
+              ".lists-wrapper .list-wrap": {
+                "width": "auto !important",
+                "max-width": "none !important",
+                "margin": "0 !important",
+                "min-width": "0"
               },
               ".lists-wrapper .item-wrap a": {
                 "overflow-wrap": "break-word !important"
@@ -17205,6 +17562,12 @@
                 "margin-left": "0 !important",
                 "margin-right": "0 !important"
               }
+            },
+            "@media (max-width: 991px)": {
+              ".guide-block > .mbr-section-btn": {
+                "margin-left": "0 !important",
+                "margin-right": "0 !important"
+              }
             }
           },
           "_name": "header01",
@@ -17415,6 +17778,22 @@
                 "width": "auto !important",
                 "max-width": "none !important",
                 "margin": "0 !important"
+              },
+              ".lists-wrapper .item-wrap a": {
+                "overflow-wrap": "break-word !important"
+              }
+            },
+            "@media (min-width: 768px)": {
+              ".lists-wrapper": {
+                "display": "grid !important",
+                "grid-template-columns": "repeat(4, minmax(0, 1fr))",
+                "column-gap": "16px"
+              },
+              ".lists-wrapper .list-wrap": {
+                "width": "auto !important",
+                "max-width": "none !important",
+                "margin": "0 !important",
+                "min-width": "0"
               },
               ".lists-wrapper .item-wrap a": {
                 "overflow-wrap": "break-word !important"
@@ -18160,6 +18539,12 @@
                 "margin-left": "0 !important",
                 "margin-right": "0 !important"
               }
+            },
+            "@media (max-width: 991px)": {
+              ".guide-block > .mbr-section-btn": {
+                "margin-left": "0 !important",
+                "margin-right": "0 !important"
+              }
             }
           },
           "_name": "list01",
@@ -18344,6 +18729,12 @@
               ".btn": {
                 "white-space": "normal !important",
                 "max-width": "100%"
+              }
+            },
+            "@media (max-width: 991px)": {
+              ".guide-block > .mbr-section-btn": {
+                "margin-left": "0 !important",
+                "margin-right": "0 !important"
               }
             }
           },
@@ -18553,6 +18944,22 @@
                 "width": "auto !important",
                 "max-width": "none !important",
                 "margin": "0 !important"
+              },
+              ".lists-wrapper .item-wrap a": {
+                "overflow-wrap": "break-word !important"
+              }
+            },
+            "@media (min-width: 768px)": {
+              ".lists-wrapper": {
+                "display": "grid !important",
+                "grid-template-columns": "repeat(4, minmax(0, 1fr))",
+                "column-gap": "16px"
+              },
+              ".lists-wrapper .list-wrap": {
+                "width": "auto !important",
+                "max-width": "none !important",
+                "margin": "0 !important",
+                "min-width": "0"
               },
               ".lists-wrapper .item-wrap a": {
                 "overflow-wrap": "break-word !important"
@@ -19400,9 +19807,43 @@
               "display": "none"
             },
             ".zl-rail > .zl-tile": {
-              "flex": "0 0 calc((100% - 48px) / 4)",
+              "flex": "0 0 calc((100% - 48px) / 3.6)",
               "min-width": "230px",
               "scroll-snap-align": "start"
+            },
+            ".zl-rail-wrap": {
+              "position": "relative"
+            },
+            ".zl-rail-btn": {
+              "position": "absolute",
+              "top": "calc(50% - 30px)",
+              "z-index": "2",
+              "width": "44px",
+              "height": "44px",
+              "border-radius": "50%",
+              "border": "1px solid #e2e8f0",
+              "background": "#fff",
+              "color": "#0c2c68",
+              "display": "grid",
+              "place-items": "center",
+              "cursor": "pointer",
+              "box-shadow": "0 6px 18px rgba(15, 23, 42, .14)"
+            },
+            ".zl-rail-btn svg": {
+              "width": "20px",
+              "height": "20px"
+            },
+            ".zl-rail-btn:hover": {
+              "background": "#e0e7ff"
+            },
+            ".zl-rail-btn[hidden]": {
+              "display": "none"
+            },
+            ".zl-rail-prev": {
+              "left": "4px"
+            },
+            ".zl-rail-next": {
+              "right": "4px"
             },
             ".zl-rail .zl-tile h3": {
               "font-size": "17px"
@@ -19452,6 +19893,9 @@
                 "-webkit-line-clamp": "2",
                 "font-size": "14px"
               },
+              ".zl-rail-btn": {
+                "display": "none"
+              },
               ".zl-cat": {
                 "font-size": "19px",
                 "margin-top": "22px"
@@ -19490,6 +19934,12 @@
             },
             ".portal-footer-reminder.portal-footer-reminder h3, .footer-numbers-grid.footer-numbers-grid strong, .footer-numbers-grid.footer-numbers-grid a": {
               "color": "#fff !important"
+            },
+            "@media (max-width: 991px)": {
+              ".guide-block > .mbr-section-btn": {
+                "margin-left": "0 !important",
+                "margin-right": "0 !important"
+              }
             }
           },
           "_name": "article08",
@@ -19699,6 +20149,22 @@
                 "width": "auto !important",
                 "max-width": "none !important",
                 "margin": "0 !important"
+              },
+              ".lists-wrapper .item-wrap a": {
+                "overflow-wrap": "break-word !important"
+              }
+            },
+            "@media (min-width: 768px)": {
+              ".lists-wrapper": {
+                "display": "grid !important",
+                "grid-template-columns": "repeat(4, minmax(0, 1fr))",
+                "column-gap": "16px"
+              },
+              ".lists-wrapper .list-wrap": {
+                "width": "auto !important",
+                "max-width": "none !important",
+                "margin": "0 !important",
+                "min-width": "0"
               },
               ".lists-wrapper .item-wrap a": {
                 "overflow-wrap": "break-word !important"
@@ -20546,9 +21012,43 @@
               "display": "none"
             },
             ".zl-rail > .zl-tile": {
-              "flex": "0 0 calc((100% - 48px) / 4)",
+              "flex": "0 0 calc((100% - 48px) / 3.6)",
               "min-width": "230px",
               "scroll-snap-align": "start"
+            },
+            ".zl-rail-wrap": {
+              "position": "relative"
+            },
+            ".zl-rail-btn": {
+              "position": "absolute",
+              "top": "calc(50% - 30px)",
+              "z-index": "2",
+              "width": "44px",
+              "height": "44px",
+              "border-radius": "50%",
+              "border": "1px solid #e2e8f0",
+              "background": "#fff",
+              "color": "#0c2c68",
+              "display": "grid",
+              "place-items": "center",
+              "cursor": "pointer",
+              "box-shadow": "0 6px 18px rgba(15, 23, 42, .14)"
+            },
+            ".zl-rail-btn svg": {
+              "width": "20px",
+              "height": "20px"
+            },
+            ".zl-rail-btn:hover": {
+              "background": "#e0e7ff"
+            },
+            ".zl-rail-btn[hidden]": {
+              "display": "none"
+            },
+            ".zl-rail-prev": {
+              "left": "4px"
+            },
+            ".zl-rail-next": {
+              "right": "4px"
             },
             ".zl-rail .zl-tile h3": {
               "font-size": "17px"
@@ -20598,6 +21098,9 @@
                 "-webkit-line-clamp": "2",
                 "font-size": "14px"
               },
+              ".zl-rail-btn": {
+                "display": "none"
+              },
               ".zl-cat": {
                 "font-size": "19px",
                 "margin-top": "22px"
@@ -20636,6 +21139,12 @@
             },
             ".portal-footer-reminder.portal-footer-reminder h3, .footer-numbers-grid.footer-numbers-grid strong, .footer-numbers-grid.footer-numbers-grid a": {
               "color": "#fff !important"
+            },
+            "@media (max-width: 991px)": {
+              ".guide-block > .mbr-section-btn": {
+                "margin-left": "0 !important",
+                "margin-right": "0 !important"
+              }
             }
           },
           "_name": "article08",
@@ -20845,6 +21354,22 @@
                 "width": "auto !important",
                 "max-width": "none !important",
                 "margin": "0 !important"
+              },
+              ".lists-wrapper .item-wrap a": {
+                "overflow-wrap": "break-word !important"
+              }
+            },
+            "@media (min-width: 768px)": {
+              ".lists-wrapper": {
+                "display": "grid !important",
+                "grid-template-columns": "repeat(4, minmax(0, 1fr))",
+                "column-gap": "16px"
+              },
+              ".lists-wrapper .list-wrap": {
+                "width": "auto !important",
+                "max-width": "none !important",
+                "margin": "0 !important",
+                "min-width": "0"
               },
               ".lists-wrapper .item-wrap a": {
                 "overflow-wrap": "break-word !important"
@@ -21692,9 +22217,43 @@
               "display": "none"
             },
             ".zl-rail > .zl-tile": {
-              "flex": "0 0 calc((100% - 48px) / 4)",
+              "flex": "0 0 calc((100% - 48px) / 3.6)",
               "min-width": "230px",
               "scroll-snap-align": "start"
+            },
+            ".zl-rail-wrap": {
+              "position": "relative"
+            },
+            ".zl-rail-btn": {
+              "position": "absolute",
+              "top": "calc(50% - 30px)",
+              "z-index": "2",
+              "width": "44px",
+              "height": "44px",
+              "border-radius": "50%",
+              "border": "1px solid #e2e8f0",
+              "background": "#fff",
+              "color": "#0c2c68",
+              "display": "grid",
+              "place-items": "center",
+              "cursor": "pointer",
+              "box-shadow": "0 6px 18px rgba(15, 23, 42, .14)"
+            },
+            ".zl-rail-btn svg": {
+              "width": "20px",
+              "height": "20px"
+            },
+            ".zl-rail-btn:hover": {
+              "background": "#e0e7ff"
+            },
+            ".zl-rail-btn[hidden]": {
+              "display": "none"
+            },
+            ".zl-rail-prev": {
+              "left": "4px"
+            },
+            ".zl-rail-next": {
+              "right": "4px"
             },
             ".zl-rail .zl-tile h3": {
               "font-size": "17px"
@@ -21744,6 +22303,9 @@
                 "-webkit-line-clamp": "2",
                 "font-size": "14px"
               },
+              ".zl-rail-btn": {
+                "display": "none"
+              },
               ".zl-cat": {
                 "font-size": "19px",
                 "margin-top": "22px"
@@ -21782,6 +22344,12 @@
             },
             ".portal-footer-reminder.portal-footer-reminder h3, .footer-numbers-grid.footer-numbers-grid strong, .footer-numbers-grid.footer-numbers-grid a": {
               "color": "#fff !important"
+            },
+            "@media (max-width: 991px)": {
+              ".guide-block > .mbr-section-btn": {
+                "margin-left": "0 !important",
+                "margin-right": "0 !important"
+              }
             }
           },
           "_name": "article08",
@@ -21991,6 +22559,22 @@
                 "width": "auto !important",
                 "max-width": "none !important",
                 "margin": "0 !important"
+              },
+              ".lists-wrapper .item-wrap a": {
+                "overflow-wrap": "break-word !important"
+              }
+            },
+            "@media (min-width: 768px)": {
+              ".lists-wrapper": {
+                "display": "grid !important",
+                "grid-template-columns": "repeat(4, minmax(0, 1fr))",
+                "column-gap": "16px"
+              },
+              ".lists-wrapper .list-wrap": {
+                "width": "auto !important",
+                "max-width": "none !important",
+                "margin": "0 !important",
+                "min-width": "0"
               },
               ".lists-wrapper .item-wrap a": {
                 "overflow-wrap": "break-word !important"
@@ -22838,9 +23422,43 @@
               "display": "none"
             },
             ".zl-rail > .zl-tile": {
-              "flex": "0 0 calc((100% - 48px) / 4)",
+              "flex": "0 0 calc((100% - 48px) / 3.6)",
               "min-width": "230px",
               "scroll-snap-align": "start"
+            },
+            ".zl-rail-wrap": {
+              "position": "relative"
+            },
+            ".zl-rail-btn": {
+              "position": "absolute",
+              "top": "calc(50% - 30px)",
+              "z-index": "2",
+              "width": "44px",
+              "height": "44px",
+              "border-radius": "50%",
+              "border": "1px solid #e2e8f0",
+              "background": "#fff",
+              "color": "#0c2c68",
+              "display": "grid",
+              "place-items": "center",
+              "cursor": "pointer",
+              "box-shadow": "0 6px 18px rgba(15, 23, 42, .14)"
+            },
+            ".zl-rail-btn svg": {
+              "width": "20px",
+              "height": "20px"
+            },
+            ".zl-rail-btn:hover": {
+              "background": "#e0e7ff"
+            },
+            ".zl-rail-btn[hidden]": {
+              "display": "none"
+            },
+            ".zl-rail-prev": {
+              "left": "4px"
+            },
+            ".zl-rail-next": {
+              "right": "4px"
             },
             ".zl-rail .zl-tile h3": {
               "font-size": "17px"
@@ -22890,6 +23508,9 @@
                 "-webkit-line-clamp": "2",
                 "font-size": "14px"
               },
+              ".zl-rail-btn": {
+                "display": "none"
+              },
               ".zl-cat": {
                 "font-size": "19px",
                 "margin-top": "22px"
@@ -22928,6 +23549,12 @@
             },
             ".portal-footer-reminder.portal-footer-reminder h3, .footer-numbers-grid.footer-numbers-grid strong, .footer-numbers-grid.footer-numbers-grid a": {
               "color": "#fff !important"
+            },
+            "@media (max-width: 991px)": {
+              ".guide-block > .mbr-section-btn": {
+                "margin-left": "0 !important",
+                "margin-right": "0 !important"
+              }
             }
           },
           "_name": "article08",
@@ -23137,6 +23764,22 @@
                 "width": "auto !important",
                 "max-width": "none !important",
                 "margin": "0 !important"
+              },
+              ".lists-wrapper .item-wrap a": {
+                "overflow-wrap": "break-word !important"
+              }
+            },
+            "@media (min-width: 768px)": {
+              ".lists-wrapper": {
+                "display": "grid !important",
+                "grid-template-columns": "repeat(4, minmax(0, 1fr))",
+                "column-gap": "16px"
+              },
+              ".lists-wrapper .list-wrap": {
+                "width": "auto !important",
+                "max-width": "none !important",
+                "margin": "0 !important",
+                "min-width": "0"
               },
               ".lists-wrapper .item-wrap a": {
                 "overflow-wrap": "break-word !important"
@@ -23984,9 +24627,43 @@
               "display": "none"
             },
             ".zl-rail > .zl-tile": {
-              "flex": "0 0 calc((100% - 48px) / 4)",
+              "flex": "0 0 calc((100% - 48px) / 3.6)",
               "min-width": "230px",
               "scroll-snap-align": "start"
+            },
+            ".zl-rail-wrap": {
+              "position": "relative"
+            },
+            ".zl-rail-btn": {
+              "position": "absolute",
+              "top": "calc(50% - 30px)",
+              "z-index": "2",
+              "width": "44px",
+              "height": "44px",
+              "border-radius": "50%",
+              "border": "1px solid #e2e8f0",
+              "background": "#fff",
+              "color": "#0c2c68",
+              "display": "grid",
+              "place-items": "center",
+              "cursor": "pointer",
+              "box-shadow": "0 6px 18px rgba(15, 23, 42, .14)"
+            },
+            ".zl-rail-btn svg": {
+              "width": "20px",
+              "height": "20px"
+            },
+            ".zl-rail-btn:hover": {
+              "background": "#e0e7ff"
+            },
+            ".zl-rail-btn[hidden]": {
+              "display": "none"
+            },
+            ".zl-rail-prev": {
+              "left": "4px"
+            },
+            ".zl-rail-next": {
+              "right": "4px"
             },
             ".zl-rail .zl-tile h3": {
               "font-size": "17px"
@@ -24036,6 +24713,9 @@
                 "-webkit-line-clamp": "2",
                 "font-size": "14px"
               },
+              ".zl-rail-btn": {
+                "display": "none"
+              },
               ".zl-cat": {
                 "font-size": "19px",
                 "margin-top": "22px"
@@ -24074,6 +24754,12 @@
             },
             ".portal-footer-reminder.portal-footer-reminder h3, .footer-numbers-grid.footer-numbers-grid strong, .footer-numbers-grid.footer-numbers-grid a": {
               "color": "#fff !important"
+            },
+            "@media (max-width: 991px)": {
+              ".guide-block > .mbr-section-btn": {
+                "margin-left": "0 !important",
+                "margin-right": "0 !important"
+              }
             }
           },
           "_name": "article08",
@@ -24283,6 +24969,22 @@
                 "width": "auto !important",
                 "max-width": "none !important",
                 "margin": "0 !important"
+              },
+              ".lists-wrapper .item-wrap a": {
+                "overflow-wrap": "break-word !important"
+              }
+            },
+            "@media (min-width: 768px)": {
+              ".lists-wrapper": {
+                "display": "grid !important",
+                "grid-template-columns": "repeat(4, minmax(0, 1fr))",
+                "column-gap": "16px"
+              },
+              ".lists-wrapper .list-wrap": {
+                "width": "auto !important",
+                "max-width": "none !important",
+                "margin": "0 !important",
+                "min-width": "0"
               },
               ".lists-wrapper .item-wrap a": {
                 "overflow-wrap": "break-word !important"
@@ -25130,9 +25832,43 @@
               "display": "none"
             },
             ".zl-rail > .zl-tile": {
-              "flex": "0 0 calc((100% - 48px) / 4)",
+              "flex": "0 0 calc((100% - 48px) / 3.6)",
               "min-width": "230px",
               "scroll-snap-align": "start"
+            },
+            ".zl-rail-wrap": {
+              "position": "relative"
+            },
+            ".zl-rail-btn": {
+              "position": "absolute",
+              "top": "calc(50% - 30px)",
+              "z-index": "2",
+              "width": "44px",
+              "height": "44px",
+              "border-radius": "50%",
+              "border": "1px solid #e2e8f0",
+              "background": "#fff",
+              "color": "#0c2c68",
+              "display": "grid",
+              "place-items": "center",
+              "cursor": "pointer",
+              "box-shadow": "0 6px 18px rgba(15, 23, 42, .14)"
+            },
+            ".zl-rail-btn svg": {
+              "width": "20px",
+              "height": "20px"
+            },
+            ".zl-rail-btn:hover": {
+              "background": "#e0e7ff"
+            },
+            ".zl-rail-btn[hidden]": {
+              "display": "none"
+            },
+            ".zl-rail-prev": {
+              "left": "4px"
+            },
+            ".zl-rail-next": {
+              "right": "4px"
             },
             ".zl-rail .zl-tile h3": {
               "font-size": "17px"
@@ -25182,6 +25918,9 @@
                 "-webkit-line-clamp": "2",
                 "font-size": "14px"
               },
+              ".zl-rail-btn": {
+                "display": "none"
+              },
               ".zl-cat": {
                 "font-size": "19px",
                 "margin-top": "22px"
@@ -25220,6 +25959,12 @@
             },
             ".portal-footer-reminder.portal-footer-reminder h3, .footer-numbers-grid.footer-numbers-grid strong, .footer-numbers-grid.footer-numbers-grid a": {
               "color": "#fff !important"
+            },
+            "@media (max-width: 991px)": {
+              ".guide-block > .mbr-section-btn": {
+                "margin-left": "0 !important",
+                "margin-right": "0 !important"
+              }
             }
           },
           "_name": "article08",
@@ -25429,6 +26174,22 @@
                 "width": "auto !important",
                 "max-width": "none !important",
                 "margin": "0 !important"
+              },
+              ".lists-wrapper .item-wrap a": {
+                "overflow-wrap": "break-word !important"
+              }
+            },
+            "@media (min-width: 768px)": {
+              ".lists-wrapper": {
+                "display": "grid !important",
+                "grid-template-columns": "repeat(4, minmax(0, 1fr))",
+                "column-gap": "16px"
+              },
+              ".lists-wrapper .list-wrap": {
+                "width": "auto !important",
+                "max-width": "none !important",
+                "margin": "0 !important",
+                "min-width": "0"
               },
               ".lists-wrapper .item-wrap a": {
                 "overflow-wrap": "break-word !important"
@@ -26276,9 +27037,43 @@
               "display": "none"
             },
             ".zl-rail > .zl-tile": {
-              "flex": "0 0 calc((100% - 48px) / 4)",
+              "flex": "0 0 calc((100% - 48px) / 3.6)",
               "min-width": "230px",
               "scroll-snap-align": "start"
+            },
+            ".zl-rail-wrap": {
+              "position": "relative"
+            },
+            ".zl-rail-btn": {
+              "position": "absolute",
+              "top": "calc(50% - 30px)",
+              "z-index": "2",
+              "width": "44px",
+              "height": "44px",
+              "border-radius": "50%",
+              "border": "1px solid #e2e8f0",
+              "background": "#fff",
+              "color": "#0c2c68",
+              "display": "grid",
+              "place-items": "center",
+              "cursor": "pointer",
+              "box-shadow": "0 6px 18px rgba(15, 23, 42, .14)"
+            },
+            ".zl-rail-btn svg": {
+              "width": "20px",
+              "height": "20px"
+            },
+            ".zl-rail-btn:hover": {
+              "background": "#e0e7ff"
+            },
+            ".zl-rail-btn[hidden]": {
+              "display": "none"
+            },
+            ".zl-rail-prev": {
+              "left": "4px"
+            },
+            ".zl-rail-next": {
+              "right": "4px"
             },
             ".zl-rail .zl-tile h3": {
               "font-size": "17px"
@@ -26328,6 +27123,9 @@
                 "-webkit-line-clamp": "2",
                 "font-size": "14px"
               },
+              ".zl-rail-btn": {
+                "display": "none"
+              },
               ".zl-cat": {
                 "font-size": "19px",
                 "margin-top": "22px"
@@ -26366,6 +27164,12 @@
             },
             ".portal-footer-reminder.portal-footer-reminder h3, .footer-numbers-grid.footer-numbers-grid strong, .footer-numbers-grid.footer-numbers-grid a": {
               "color": "#fff !important"
+            },
+            "@media (max-width: 991px)": {
+              ".guide-block > .mbr-section-btn": {
+                "margin-left": "0 !important",
+                "margin-right": "0 !important"
+              }
             }
           },
           "_name": "article08",
@@ -26575,6 +27379,22 @@
                 "width": "auto !important",
                 "max-width": "none !important",
                 "margin": "0 !important"
+              },
+              ".lists-wrapper .item-wrap a": {
+                "overflow-wrap": "break-word !important"
+              }
+            },
+            "@media (min-width: 768px)": {
+              ".lists-wrapper": {
+                "display": "grid !important",
+                "grid-template-columns": "repeat(4, minmax(0, 1fr))",
+                "column-gap": "16px"
+              },
+              ".lists-wrapper .list-wrap": {
+                "width": "auto !important",
+                "max-width": "none !important",
+                "margin": "0 !important",
+                "min-width": "0"
               },
               ".lists-wrapper .item-wrap a": {
                 "overflow-wrap": "break-word !important"
@@ -27422,9 +28242,43 @@
               "display": "none"
             },
             ".zl-rail > .zl-tile": {
-              "flex": "0 0 calc((100% - 48px) / 4)",
+              "flex": "0 0 calc((100% - 48px) / 3.6)",
               "min-width": "230px",
               "scroll-snap-align": "start"
+            },
+            ".zl-rail-wrap": {
+              "position": "relative"
+            },
+            ".zl-rail-btn": {
+              "position": "absolute",
+              "top": "calc(50% - 30px)",
+              "z-index": "2",
+              "width": "44px",
+              "height": "44px",
+              "border-radius": "50%",
+              "border": "1px solid #e2e8f0",
+              "background": "#fff",
+              "color": "#0c2c68",
+              "display": "grid",
+              "place-items": "center",
+              "cursor": "pointer",
+              "box-shadow": "0 6px 18px rgba(15, 23, 42, .14)"
+            },
+            ".zl-rail-btn svg": {
+              "width": "20px",
+              "height": "20px"
+            },
+            ".zl-rail-btn:hover": {
+              "background": "#e0e7ff"
+            },
+            ".zl-rail-btn[hidden]": {
+              "display": "none"
+            },
+            ".zl-rail-prev": {
+              "left": "4px"
+            },
+            ".zl-rail-next": {
+              "right": "4px"
             },
             ".zl-rail .zl-tile h3": {
               "font-size": "17px"
@@ -27474,6 +28328,9 @@
                 "-webkit-line-clamp": "2",
                 "font-size": "14px"
               },
+              ".zl-rail-btn": {
+                "display": "none"
+              },
               ".zl-cat": {
                 "font-size": "19px",
                 "margin-top": "22px"
@@ -27512,6 +28369,12 @@
             },
             ".portal-footer-reminder.portal-footer-reminder h3, .footer-numbers-grid.footer-numbers-grid strong, .footer-numbers-grid.footer-numbers-grid a": {
               "color": "#fff !important"
+            },
+            "@media (max-width: 991px)": {
+              ".guide-block > .mbr-section-btn": {
+                "margin-left": "0 !important",
+                "margin-right": "0 !important"
+              }
             }
           },
           "_name": "article08",
@@ -27721,6 +28584,22 @@
                 "width": "auto !important",
                 "max-width": "none !important",
                 "margin": "0 !important"
+              },
+              ".lists-wrapper .item-wrap a": {
+                "overflow-wrap": "break-word !important"
+              }
+            },
+            "@media (min-width: 768px)": {
+              ".lists-wrapper": {
+                "display": "grid !important",
+                "grid-template-columns": "repeat(4, minmax(0, 1fr))",
+                "column-gap": "16px"
+              },
+              ".lists-wrapper .list-wrap": {
+                "width": "auto !important",
+                "max-width": "none !important",
+                "margin": "0 !important",
+                "min-width": "0"
               },
               ".lists-wrapper .item-wrap a": {
                 "overflow-wrap": "break-word !important"
@@ -28568,9 +29447,43 @@
               "display": "none"
             },
             ".zl-rail > .zl-tile": {
-              "flex": "0 0 calc((100% - 48px) / 4)",
+              "flex": "0 0 calc((100% - 48px) / 3.6)",
               "min-width": "230px",
               "scroll-snap-align": "start"
+            },
+            ".zl-rail-wrap": {
+              "position": "relative"
+            },
+            ".zl-rail-btn": {
+              "position": "absolute",
+              "top": "calc(50% - 30px)",
+              "z-index": "2",
+              "width": "44px",
+              "height": "44px",
+              "border-radius": "50%",
+              "border": "1px solid #e2e8f0",
+              "background": "#fff",
+              "color": "#0c2c68",
+              "display": "grid",
+              "place-items": "center",
+              "cursor": "pointer",
+              "box-shadow": "0 6px 18px rgba(15, 23, 42, .14)"
+            },
+            ".zl-rail-btn svg": {
+              "width": "20px",
+              "height": "20px"
+            },
+            ".zl-rail-btn:hover": {
+              "background": "#e0e7ff"
+            },
+            ".zl-rail-btn[hidden]": {
+              "display": "none"
+            },
+            ".zl-rail-prev": {
+              "left": "4px"
+            },
+            ".zl-rail-next": {
+              "right": "4px"
             },
             ".zl-rail .zl-tile h3": {
               "font-size": "17px"
@@ -28620,6 +29533,9 @@
                 "-webkit-line-clamp": "2",
                 "font-size": "14px"
               },
+              ".zl-rail-btn": {
+                "display": "none"
+              },
               ".zl-cat": {
                 "font-size": "19px",
                 "margin-top": "22px"
@@ -28658,6 +29574,12 @@
             },
             ".portal-footer-reminder.portal-footer-reminder h3, .footer-numbers-grid.footer-numbers-grid strong, .footer-numbers-grid.footer-numbers-grid a": {
               "color": "#fff !important"
+            },
+            "@media (max-width: 991px)": {
+              ".guide-block > .mbr-section-btn": {
+                "margin-left": "0 !important",
+                "margin-right": "0 !important"
+              }
             }
           },
           "_name": "article08",
@@ -28867,6 +29789,22 @@
                 "width": "auto !important",
                 "max-width": "none !important",
                 "margin": "0 !important"
+              },
+              ".lists-wrapper .item-wrap a": {
+                "overflow-wrap": "break-word !important"
+              }
+            },
+            "@media (min-width: 768px)": {
+              ".lists-wrapper": {
+                "display": "grid !important",
+                "grid-template-columns": "repeat(4, minmax(0, 1fr))",
+                "column-gap": "16px"
+              },
+              ".lists-wrapper .list-wrap": {
+                "width": "auto !important",
+                "max-width": "none !important",
+                "margin": "0 !important",
+                "min-width": "0"
               },
               ".lists-wrapper .item-wrap a": {
                 "overflow-wrap": "break-word !important"
@@ -29714,9 +30652,43 @@
               "display": "none"
             },
             ".zl-rail > .zl-tile": {
-              "flex": "0 0 calc((100% - 48px) / 4)",
+              "flex": "0 0 calc((100% - 48px) / 3.6)",
               "min-width": "230px",
               "scroll-snap-align": "start"
+            },
+            ".zl-rail-wrap": {
+              "position": "relative"
+            },
+            ".zl-rail-btn": {
+              "position": "absolute",
+              "top": "calc(50% - 30px)",
+              "z-index": "2",
+              "width": "44px",
+              "height": "44px",
+              "border-radius": "50%",
+              "border": "1px solid #e2e8f0",
+              "background": "#fff",
+              "color": "#0c2c68",
+              "display": "grid",
+              "place-items": "center",
+              "cursor": "pointer",
+              "box-shadow": "0 6px 18px rgba(15, 23, 42, .14)"
+            },
+            ".zl-rail-btn svg": {
+              "width": "20px",
+              "height": "20px"
+            },
+            ".zl-rail-btn:hover": {
+              "background": "#e0e7ff"
+            },
+            ".zl-rail-btn[hidden]": {
+              "display": "none"
+            },
+            ".zl-rail-prev": {
+              "left": "4px"
+            },
+            ".zl-rail-next": {
+              "right": "4px"
             },
             ".zl-rail .zl-tile h3": {
               "font-size": "17px"
@@ -29766,6 +30738,9 @@
                 "-webkit-line-clamp": "2",
                 "font-size": "14px"
               },
+              ".zl-rail-btn": {
+                "display": "none"
+              },
               ".zl-cat": {
                 "font-size": "19px",
                 "margin-top": "22px"
@@ -29804,6 +30779,12 @@
             },
             ".portal-footer-reminder.portal-footer-reminder h3, .footer-numbers-grid.footer-numbers-grid strong, .footer-numbers-grid.footer-numbers-grid a": {
               "color": "#fff !important"
+            },
+            "@media (max-width: 991px)": {
+              ".guide-block > .mbr-section-btn": {
+                "margin-left": "0 !important",
+                "margin-right": "0 !important"
+              }
             }
           },
           "_name": "article08",
@@ -30013,6 +30994,22 @@
                 "width": "auto !important",
                 "max-width": "none !important",
                 "margin": "0 !important"
+              },
+              ".lists-wrapper .item-wrap a": {
+                "overflow-wrap": "break-word !important"
+              }
+            },
+            "@media (min-width: 768px)": {
+              ".lists-wrapper": {
+                "display": "grid !important",
+                "grid-template-columns": "repeat(4, minmax(0, 1fr))",
+                "column-gap": "16px"
+              },
+              ".lists-wrapper .list-wrap": {
+                "width": "auto !important",
+                "max-width": "none !important",
+                "margin": "0 !important",
+                "min-width": "0"
               },
               ".lists-wrapper .item-wrap a": {
                 "overflow-wrap": "break-word !important"
@@ -30860,9 +31857,43 @@
               "display": "none"
             },
             ".zl-rail > .zl-tile": {
-              "flex": "0 0 calc((100% - 48px) / 4)",
+              "flex": "0 0 calc((100% - 48px) / 3.6)",
               "min-width": "230px",
               "scroll-snap-align": "start"
+            },
+            ".zl-rail-wrap": {
+              "position": "relative"
+            },
+            ".zl-rail-btn": {
+              "position": "absolute",
+              "top": "calc(50% - 30px)",
+              "z-index": "2",
+              "width": "44px",
+              "height": "44px",
+              "border-radius": "50%",
+              "border": "1px solid #e2e8f0",
+              "background": "#fff",
+              "color": "#0c2c68",
+              "display": "grid",
+              "place-items": "center",
+              "cursor": "pointer",
+              "box-shadow": "0 6px 18px rgba(15, 23, 42, .14)"
+            },
+            ".zl-rail-btn svg": {
+              "width": "20px",
+              "height": "20px"
+            },
+            ".zl-rail-btn:hover": {
+              "background": "#e0e7ff"
+            },
+            ".zl-rail-btn[hidden]": {
+              "display": "none"
+            },
+            ".zl-rail-prev": {
+              "left": "4px"
+            },
+            ".zl-rail-next": {
+              "right": "4px"
             },
             ".zl-rail .zl-tile h3": {
               "font-size": "17px"
@@ -30912,6 +31943,9 @@
                 "-webkit-line-clamp": "2",
                 "font-size": "14px"
               },
+              ".zl-rail-btn": {
+                "display": "none"
+              },
               ".zl-cat": {
                 "font-size": "19px",
                 "margin-top": "22px"
@@ -30950,6 +31984,12 @@
             },
             ".portal-footer-reminder.portal-footer-reminder h3, .footer-numbers-grid.footer-numbers-grid strong, .footer-numbers-grid.footer-numbers-grid a": {
               "color": "#fff !important"
+            },
+            "@media (max-width: 991px)": {
+              ".guide-block > .mbr-section-btn": {
+                "margin-left": "0 !important",
+                "margin-right": "0 !important"
+              }
             }
           },
           "_name": "article08",
@@ -31159,6 +32199,22 @@
                 "width": "auto !important",
                 "max-width": "none !important",
                 "margin": "0 !important"
+              },
+              ".lists-wrapper .item-wrap a": {
+                "overflow-wrap": "break-word !important"
+              }
+            },
+            "@media (min-width: 768px)": {
+              ".lists-wrapper": {
+                "display": "grid !important",
+                "grid-template-columns": "repeat(4, minmax(0, 1fr))",
+                "column-gap": "16px"
+              },
+              ".lists-wrapper .list-wrap": {
+                "width": "auto !important",
+                "max-width": "none !important",
+                "margin": "0 !important",
+                "min-width": "0"
               },
               ".lists-wrapper .item-wrap a": {
                 "overflow-wrap": "break-word !important"
@@ -32006,9 +33062,43 @@
               "display": "none"
             },
             ".zl-rail > .zl-tile": {
-              "flex": "0 0 calc((100% - 48px) / 4)",
+              "flex": "0 0 calc((100% - 48px) / 3.6)",
               "min-width": "230px",
               "scroll-snap-align": "start"
+            },
+            ".zl-rail-wrap": {
+              "position": "relative"
+            },
+            ".zl-rail-btn": {
+              "position": "absolute",
+              "top": "calc(50% - 30px)",
+              "z-index": "2",
+              "width": "44px",
+              "height": "44px",
+              "border-radius": "50%",
+              "border": "1px solid #e2e8f0",
+              "background": "#fff",
+              "color": "#0c2c68",
+              "display": "grid",
+              "place-items": "center",
+              "cursor": "pointer",
+              "box-shadow": "0 6px 18px rgba(15, 23, 42, .14)"
+            },
+            ".zl-rail-btn svg": {
+              "width": "20px",
+              "height": "20px"
+            },
+            ".zl-rail-btn:hover": {
+              "background": "#e0e7ff"
+            },
+            ".zl-rail-btn[hidden]": {
+              "display": "none"
+            },
+            ".zl-rail-prev": {
+              "left": "4px"
+            },
+            ".zl-rail-next": {
+              "right": "4px"
             },
             ".zl-rail .zl-tile h3": {
               "font-size": "17px"
@@ -32058,6 +33148,9 @@
                 "-webkit-line-clamp": "2",
                 "font-size": "14px"
               },
+              ".zl-rail-btn": {
+                "display": "none"
+              },
               ".zl-cat": {
                 "font-size": "19px",
                 "margin-top": "22px"
@@ -32096,6 +33189,12 @@
             },
             ".portal-footer-reminder.portal-footer-reminder h3, .footer-numbers-grid.footer-numbers-grid strong, .footer-numbers-grid.footer-numbers-grid a": {
               "color": "#fff !important"
+            },
+            "@media (max-width: 991px)": {
+              ".guide-block > .mbr-section-btn": {
+                "margin-left": "0 !important",
+                "margin-right": "0 !important"
+              }
             }
           },
           "_name": "article08",
@@ -32305,6 +33404,22 @@
                 "width": "auto !important",
                 "max-width": "none !important",
                 "margin": "0 !important"
+              },
+              ".lists-wrapper .item-wrap a": {
+                "overflow-wrap": "break-word !important"
+              }
+            },
+            "@media (min-width: 768px)": {
+              ".lists-wrapper": {
+                "display": "grid !important",
+                "grid-template-columns": "repeat(4, minmax(0, 1fr))",
+                "column-gap": "16px"
+              },
+              ".lists-wrapper .list-wrap": {
+                "width": "auto !important",
+                "max-width": "none !important",
+                "margin": "0 !important",
+                "min-width": "0"
               },
               ".lists-wrapper .item-wrap a": {
                 "overflow-wrap": "break-word !important"
@@ -33152,9 +34267,43 @@
               "display": "none"
             },
             ".zl-rail > .zl-tile": {
-              "flex": "0 0 calc((100% - 48px) / 4)",
+              "flex": "0 0 calc((100% - 48px) / 3.6)",
               "min-width": "230px",
               "scroll-snap-align": "start"
+            },
+            ".zl-rail-wrap": {
+              "position": "relative"
+            },
+            ".zl-rail-btn": {
+              "position": "absolute",
+              "top": "calc(50% - 30px)",
+              "z-index": "2",
+              "width": "44px",
+              "height": "44px",
+              "border-radius": "50%",
+              "border": "1px solid #e2e8f0",
+              "background": "#fff",
+              "color": "#0c2c68",
+              "display": "grid",
+              "place-items": "center",
+              "cursor": "pointer",
+              "box-shadow": "0 6px 18px rgba(15, 23, 42, .14)"
+            },
+            ".zl-rail-btn svg": {
+              "width": "20px",
+              "height": "20px"
+            },
+            ".zl-rail-btn:hover": {
+              "background": "#e0e7ff"
+            },
+            ".zl-rail-btn[hidden]": {
+              "display": "none"
+            },
+            ".zl-rail-prev": {
+              "left": "4px"
+            },
+            ".zl-rail-next": {
+              "right": "4px"
             },
             ".zl-rail .zl-tile h3": {
               "font-size": "17px"
@@ -33204,6 +34353,9 @@
                 "-webkit-line-clamp": "2",
                 "font-size": "14px"
               },
+              ".zl-rail-btn": {
+                "display": "none"
+              },
               ".zl-cat": {
                 "font-size": "19px",
                 "margin-top": "22px"
@@ -33242,6 +34394,12 @@
             },
             ".portal-footer-reminder.portal-footer-reminder h3, .footer-numbers-grid.footer-numbers-grid strong, .footer-numbers-grid.footer-numbers-grid a": {
               "color": "#fff !important"
+            },
+            "@media (max-width: 991px)": {
+              ".guide-block > .mbr-section-btn": {
+                "margin-left": "0 !important",
+                "margin-right": "0 !important"
+              }
             }
           },
           "_name": "article08",
@@ -33451,6 +34609,22 @@
                 "width": "auto !important",
                 "max-width": "none !important",
                 "margin": "0 !important"
+              },
+              ".lists-wrapper .item-wrap a": {
+                "overflow-wrap": "break-word !important"
+              }
+            },
+            "@media (min-width: 768px)": {
+              ".lists-wrapper": {
+                "display": "grid !important",
+                "grid-template-columns": "repeat(4, minmax(0, 1fr))",
+                "column-gap": "16px"
+              },
+              ".lists-wrapper .list-wrap": {
+                "width": "auto !important",
+                "max-width": "none !important",
+                "margin": "0 !important",
+                "min-width": "0"
               },
               ".lists-wrapper .item-wrap a": {
                 "overflow-wrap": "break-word !important"
@@ -34298,9 +35472,43 @@
               "display": "none"
             },
             ".zl-rail > .zl-tile": {
-              "flex": "0 0 calc((100% - 48px) / 4)",
+              "flex": "0 0 calc((100% - 48px) / 3.6)",
               "min-width": "230px",
               "scroll-snap-align": "start"
+            },
+            ".zl-rail-wrap": {
+              "position": "relative"
+            },
+            ".zl-rail-btn": {
+              "position": "absolute",
+              "top": "calc(50% - 30px)",
+              "z-index": "2",
+              "width": "44px",
+              "height": "44px",
+              "border-radius": "50%",
+              "border": "1px solid #e2e8f0",
+              "background": "#fff",
+              "color": "#0c2c68",
+              "display": "grid",
+              "place-items": "center",
+              "cursor": "pointer",
+              "box-shadow": "0 6px 18px rgba(15, 23, 42, .14)"
+            },
+            ".zl-rail-btn svg": {
+              "width": "20px",
+              "height": "20px"
+            },
+            ".zl-rail-btn:hover": {
+              "background": "#e0e7ff"
+            },
+            ".zl-rail-btn[hidden]": {
+              "display": "none"
+            },
+            ".zl-rail-prev": {
+              "left": "4px"
+            },
+            ".zl-rail-next": {
+              "right": "4px"
             },
             ".zl-rail .zl-tile h3": {
               "font-size": "17px"
@@ -34350,6 +35558,9 @@
                 "-webkit-line-clamp": "2",
                 "font-size": "14px"
               },
+              ".zl-rail-btn": {
+                "display": "none"
+              },
               ".zl-cat": {
                 "font-size": "19px",
                 "margin-top": "22px"
@@ -34388,6 +35599,12 @@
             },
             ".portal-footer-reminder.portal-footer-reminder h3, .footer-numbers-grid.footer-numbers-grid strong, .footer-numbers-grid.footer-numbers-grid a": {
               "color": "#fff !important"
+            },
+            "@media (max-width: 991px)": {
+              ".guide-block > .mbr-section-btn": {
+                "margin-left": "0 !important",
+                "margin-right": "0 !important"
+              }
             }
           },
           "_name": "article08",
@@ -34597,6 +35814,22 @@
                 "width": "auto !important",
                 "max-width": "none !important",
                 "margin": "0 !important"
+              },
+              ".lists-wrapper .item-wrap a": {
+                "overflow-wrap": "break-word !important"
+              }
+            },
+            "@media (min-width: 768px)": {
+              ".lists-wrapper": {
+                "display": "grid !important",
+                "grid-template-columns": "repeat(4, minmax(0, 1fr))",
+                "column-gap": "16px"
+              },
+              ".lists-wrapper .list-wrap": {
+                "width": "auto !important",
+                "max-width": "none !important",
+                "margin": "0 !important",
+                "min-width": "0"
               },
               ".lists-wrapper .item-wrap a": {
                 "overflow-wrap": "break-word !important"
@@ -35444,9 +36677,43 @@
               "display": "none"
             },
             ".zl-rail > .zl-tile": {
-              "flex": "0 0 calc((100% - 48px) / 4)",
+              "flex": "0 0 calc((100% - 48px) / 3.6)",
               "min-width": "230px",
               "scroll-snap-align": "start"
+            },
+            ".zl-rail-wrap": {
+              "position": "relative"
+            },
+            ".zl-rail-btn": {
+              "position": "absolute",
+              "top": "calc(50% - 30px)",
+              "z-index": "2",
+              "width": "44px",
+              "height": "44px",
+              "border-radius": "50%",
+              "border": "1px solid #e2e8f0",
+              "background": "#fff",
+              "color": "#0c2c68",
+              "display": "grid",
+              "place-items": "center",
+              "cursor": "pointer",
+              "box-shadow": "0 6px 18px rgba(15, 23, 42, .14)"
+            },
+            ".zl-rail-btn svg": {
+              "width": "20px",
+              "height": "20px"
+            },
+            ".zl-rail-btn:hover": {
+              "background": "#e0e7ff"
+            },
+            ".zl-rail-btn[hidden]": {
+              "display": "none"
+            },
+            ".zl-rail-prev": {
+              "left": "4px"
+            },
+            ".zl-rail-next": {
+              "right": "4px"
             },
             ".zl-rail .zl-tile h3": {
               "font-size": "17px"
@@ -35496,6 +36763,9 @@
                 "-webkit-line-clamp": "2",
                 "font-size": "14px"
               },
+              ".zl-rail-btn": {
+                "display": "none"
+              },
               ".zl-cat": {
                 "font-size": "19px",
                 "margin-top": "22px"
@@ -35534,6 +36804,12 @@
             },
             ".portal-footer-reminder.portal-footer-reminder h3, .footer-numbers-grid.footer-numbers-grid strong, .footer-numbers-grid.footer-numbers-grid a": {
               "color": "#fff !important"
+            },
+            "@media (max-width: 991px)": {
+              ".guide-block > .mbr-section-btn": {
+                "margin-left": "0 !important",
+                "margin-right": "0 !important"
+              }
             }
           },
           "_name": "article08",
@@ -35743,6 +37019,22 @@
                 "width": "auto !important",
                 "max-width": "none !important",
                 "margin": "0 !important"
+              },
+              ".lists-wrapper .item-wrap a": {
+                "overflow-wrap": "break-word !important"
+              }
+            },
+            "@media (min-width: 768px)": {
+              ".lists-wrapper": {
+                "display": "grid !important",
+                "grid-template-columns": "repeat(4, minmax(0, 1fr))",
+                "column-gap": "16px"
+              },
+              ".lists-wrapper .list-wrap": {
+                "width": "auto !important",
+                "max-width": "none !important",
+                "margin": "0 !important",
+                "min-width": "0"
               },
               ".lists-wrapper .item-wrap a": {
                 "overflow-wrap": "break-word !important"
@@ -36590,9 +37882,43 @@
               "display": "none"
             },
             ".zl-rail > .zl-tile": {
-              "flex": "0 0 calc((100% - 48px) / 4)",
+              "flex": "0 0 calc((100% - 48px) / 3.6)",
               "min-width": "230px",
               "scroll-snap-align": "start"
+            },
+            ".zl-rail-wrap": {
+              "position": "relative"
+            },
+            ".zl-rail-btn": {
+              "position": "absolute",
+              "top": "calc(50% - 30px)",
+              "z-index": "2",
+              "width": "44px",
+              "height": "44px",
+              "border-radius": "50%",
+              "border": "1px solid #e2e8f0",
+              "background": "#fff",
+              "color": "#0c2c68",
+              "display": "grid",
+              "place-items": "center",
+              "cursor": "pointer",
+              "box-shadow": "0 6px 18px rgba(15, 23, 42, .14)"
+            },
+            ".zl-rail-btn svg": {
+              "width": "20px",
+              "height": "20px"
+            },
+            ".zl-rail-btn:hover": {
+              "background": "#e0e7ff"
+            },
+            ".zl-rail-btn[hidden]": {
+              "display": "none"
+            },
+            ".zl-rail-prev": {
+              "left": "4px"
+            },
+            ".zl-rail-next": {
+              "right": "4px"
             },
             ".zl-rail .zl-tile h3": {
               "font-size": "17px"
@@ -36642,6 +37968,9 @@
                 "-webkit-line-clamp": "2",
                 "font-size": "14px"
               },
+              ".zl-rail-btn": {
+                "display": "none"
+              },
               ".zl-cat": {
                 "font-size": "19px",
                 "margin-top": "22px"
@@ -36680,6 +38009,12 @@
             },
             ".portal-footer-reminder.portal-footer-reminder h3, .footer-numbers-grid.footer-numbers-grid strong, .footer-numbers-grid.footer-numbers-grid a": {
               "color": "#fff !important"
+            },
+            "@media (max-width: 991px)": {
+              ".guide-block > .mbr-section-btn": {
+                "margin-left": "0 !important",
+                "margin-right": "0 !important"
+              }
             }
           },
           "_name": "article08",
@@ -36889,6 +38224,22 @@
                 "width": "auto !important",
                 "max-width": "none !important",
                 "margin": "0 !important"
+              },
+              ".lists-wrapper .item-wrap a": {
+                "overflow-wrap": "break-word !important"
+              }
+            },
+            "@media (min-width: 768px)": {
+              ".lists-wrapper": {
+                "display": "grid !important",
+                "grid-template-columns": "repeat(4, minmax(0, 1fr))",
+                "column-gap": "16px"
+              },
+              ".lists-wrapper .list-wrap": {
+                "width": "auto !important",
+                "max-width": "none !important",
+                "margin": "0 !important",
+                "min-width": "0"
               },
               ".lists-wrapper .item-wrap a": {
                 "overflow-wrap": "break-word !important"
@@ -37736,9 +39087,43 @@
               "display": "none"
             },
             ".zl-rail > .zl-tile": {
-              "flex": "0 0 calc((100% - 48px) / 4)",
+              "flex": "0 0 calc((100% - 48px) / 3.6)",
               "min-width": "230px",
               "scroll-snap-align": "start"
+            },
+            ".zl-rail-wrap": {
+              "position": "relative"
+            },
+            ".zl-rail-btn": {
+              "position": "absolute",
+              "top": "calc(50% - 30px)",
+              "z-index": "2",
+              "width": "44px",
+              "height": "44px",
+              "border-radius": "50%",
+              "border": "1px solid #e2e8f0",
+              "background": "#fff",
+              "color": "#0c2c68",
+              "display": "grid",
+              "place-items": "center",
+              "cursor": "pointer",
+              "box-shadow": "0 6px 18px rgba(15, 23, 42, .14)"
+            },
+            ".zl-rail-btn svg": {
+              "width": "20px",
+              "height": "20px"
+            },
+            ".zl-rail-btn:hover": {
+              "background": "#e0e7ff"
+            },
+            ".zl-rail-btn[hidden]": {
+              "display": "none"
+            },
+            ".zl-rail-prev": {
+              "left": "4px"
+            },
+            ".zl-rail-next": {
+              "right": "4px"
             },
             ".zl-rail .zl-tile h3": {
               "font-size": "17px"
@@ -37788,6 +39173,9 @@
                 "-webkit-line-clamp": "2",
                 "font-size": "14px"
               },
+              ".zl-rail-btn": {
+                "display": "none"
+              },
               ".zl-cat": {
                 "font-size": "19px",
                 "margin-top": "22px"
@@ -37826,6 +39214,12 @@
             },
             ".portal-footer-reminder.portal-footer-reminder h3, .footer-numbers-grid.footer-numbers-grid strong, .footer-numbers-grid.footer-numbers-grid a": {
               "color": "#fff !important"
+            },
+            "@media (max-width: 991px)": {
+              ".guide-block > .mbr-section-btn": {
+                "margin-left": "0 !important",
+                "margin-right": "0 !important"
+              }
             }
           },
           "_name": "article08",
@@ -38035,6 +39429,22 @@
                 "width": "auto !important",
                 "max-width": "none !important",
                 "margin": "0 !important"
+              },
+              ".lists-wrapper .item-wrap a": {
+                "overflow-wrap": "break-word !important"
+              }
+            },
+            "@media (min-width: 768px)": {
+              ".lists-wrapper": {
+                "display": "grid !important",
+                "grid-template-columns": "repeat(4, minmax(0, 1fr))",
+                "column-gap": "16px"
+              },
+              ".lists-wrapper .list-wrap": {
+                "width": "auto !important",
+                "max-width": "none !important",
+                "margin": "0 !important",
+                "min-width": "0"
               },
               ".lists-wrapper .item-wrap a": {
                 "overflow-wrap": "break-word !important"
@@ -38882,9 +40292,43 @@
               "display": "none"
             },
             ".zl-rail > .zl-tile": {
-              "flex": "0 0 calc((100% - 48px) / 4)",
+              "flex": "0 0 calc((100% - 48px) / 3.6)",
               "min-width": "230px",
               "scroll-snap-align": "start"
+            },
+            ".zl-rail-wrap": {
+              "position": "relative"
+            },
+            ".zl-rail-btn": {
+              "position": "absolute",
+              "top": "calc(50% - 30px)",
+              "z-index": "2",
+              "width": "44px",
+              "height": "44px",
+              "border-radius": "50%",
+              "border": "1px solid #e2e8f0",
+              "background": "#fff",
+              "color": "#0c2c68",
+              "display": "grid",
+              "place-items": "center",
+              "cursor": "pointer",
+              "box-shadow": "0 6px 18px rgba(15, 23, 42, .14)"
+            },
+            ".zl-rail-btn svg": {
+              "width": "20px",
+              "height": "20px"
+            },
+            ".zl-rail-btn:hover": {
+              "background": "#e0e7ff"
+            },
+            ".zl-rail-btn[hidden]": {
+              "display": "none"
+            },
+            ".zl-rail-prev": {
+              "left": "4px"
+            },
+            ".zl-rail-next": {
+              "right": "4px"
             },
             ".zl-rail .zl-tile h3": {
               "font-size": "17px"
@@ -38934,6 +40378,9 @@
                 "-webkit-line-clamp": "2",
                 "font-size": "14px"
               },
+              ".zl-rail-btn": {
+                "display": "none"
+              },
               ".zl-cat": {
                 "font-size": "19px",
                 "margin-top": "22px"
@@ -38972,6 +40419,12 @@
             },
             ".portal-footer-reminder.portal-footer-reminder h3, .footer-numbers-grid.footer-numbers-grid strong, .footer-numbers-grid.footer-numbers-grid a": {
               "color": "#fff !important"
+            },
+            "@media (max-width: 991px)": {
+              ".guide-block > .mbr-section-btn": {
+                "margin-left": "0 !important",
+                "margin-right": "0 !important"
+              }
             }
           },
           "_name": "article08",
@@ -39181,6 +40634,22 @@
                 "width": "auto !important",
                 "max-width": "none !important",
                 "margin": "0 !important"
+              },
+              ".lists-wrapper .item-wrap a": {
+                "overflow-wrap": "break-word !important"
+              }
+            },
+            "@media (min-width: 768px)": {
+              ".lists-wrapper": {
+                "display": "grid !important",
+                "grid-template-columns": "repeat(4, minmax(0, 1fr))",
+                "column-gap": "16px"
+              },
+              ".lists-wrapper .list-wrap": {
+                "width": "auto !important",
+                "max-width": "none !important",
+                "margin": "0 !important",
+                "min-width": "0"
               },
               ".lists-wrapper .item-wrap a": {
                 "overflow-wrap": "break-word !important"
@@ -40028,9 +41497,43 @@
               "display": "none"
             },
             ".zl-rail > .zl-tile": {
-              "flex": "0 0 calc((100% - 48px) / 4)",
+              "flex": "0 0 calc((100% - 48px) / 3.6)",
               "min-width": "230px",
               "scroll-snap-align": "start"
+            },
+            ".zl-rail-wrap": {
+              "position": "relative"
+            },
+            ".zl-rail-btn": {
+              "position": "absolute",
+              "top": "calc(50% - 30px)",
+              "z-index": "2",
+              "width": "44px",
+              "height": "44px",
+              "border-radius": "50%",
+              "border": "1px solid #e2e8f0",
+              "background": "#fff",
+              "color": "#0c2c68",
+              "display": "grid",
+              "place-items": "center",
+              "cursor": "pointer",
+              "box-shadow": "0 6px 18px rgba(15, 23, 42, .14)"
+            },
+            ".zl-rail-btn svg": {
+              "width": "20px",
+              "height": "20px"
+            },
+            ".zl-rail-btn:hover": {
+              "background": "#e0e7ff"
+            },
+            ".zl-rail-btn[hidden]": {
+              "display": "none"
+            },
+            ".zl-rail-prev": {
+              "left": "4px"
+            },
+            ".zl-rail-next": {
+              "right": "4px"
             },
             ".zl-rail .zl-tile h3": {
               "font-size": "17px"
@@ -40080,6 +41583,9 @@
                 "-webkit-line-clamp": "2",
                 "font-size": "14px"
               },
+              ".zl-rail-btn": {
+                "display": "none"
+              },
               ".zl-cat": {
                 "font-size": "19px",
                 "margin-top": "22px"
@@ -40118,6 +41624,12 @@
             },
             ".portal-footer-reminder.portal-footer-reminder h3, .footer-numbers-grid.footer-numbers-grid strong, .footer-numbers-grid.footer-numbers-grid a": {
               "color": "#fff !important"
+            },
+            "@media (max-width: 991px)": {
+              ".guide-block > .mbr-section-btn": {
+                "margin-left": "0 !important",
+                "margin-right": "0 !important"
+              }
             }
           },
           "_name": "article08",
@@ -40327,6 +41839,22 @@
                 "width": "auto !important",
                 "max-width": "none !important",
                 "margin": "0 !important"
+              },
+              ".lists-wrapper .item-wrap a": {
+                "overflow-wrap": "break-word !important"
+              }
+            },
+            "@media (min-width: 768px)": {
+              ".lists-wrapper": {
+                "display": "grid !important",
+                "grid-template-columns": "repeat(4, minmax(0, 1fr))",
+                "column-gap": "16px"
+              },
+              ".lists-wrapper .list-wrap": {
+                "width": "auto !important",
+                "max-width": "none !important",
+                "margin": "0 !important",
+                "min-width": "0"
               },
               ".lists-wrapper .item-wrap a": {
                 "overflow-wrap": "break-word !important"
@@ -41174,9 +42702,43 @@
               "display": "none"
             },
             ".zl-rail > .zl-tile": {
-              "flex": "0 0 calc((100% - 48px) / 4)",
+              "flex": "0 0 calc((100% - 48px) / 3.6)",
               "min-width": "230px",
               "scroll-snap-align": "start"
+            },
+            ".zl-rail-wrap": {
+              "position": "relative"
+            },
+            ".zl-rail-btn": {
+              "position": "absolute",
+              "top": "calc(50% - 30px)",
+              "z-index": "2",
+              "width": "44px",
+              "height": "44px",
+              "border-radius": "50%",
+              "border": "1px solid #e2e8f0",
+              "background": "#fff",
+              "color": "#0c2c68",
+              "display": "grid",
+              "place-items": "center",
+              "cursor": "pointer",
+              "box-shadow": "0 6px 18px rgba(15, 23, 42, .14)"
+            },
+            ".zl-rail-btn svg": {
+              "width": "20px",
+              "height": "20px"
+            },
+            ".zl-rail-btn:hover": {
+              "background": "#e0e7ff"
+            },
+            ".zl-rail-btn[hidden]": {
+              "display": "none"
+            },
+            ".zl-rail-prev": {
+              "left": "4px"
+            },
+            ".zl-rail-next": {
+              "right": "4px"
             },
             ".zl-rail .zl-tile h3": {
               "font-size": "17px"
@@ -41226,6 +42788,9 @@
                 "-webkit-line-clamp": "2",
                 "font-size": "14px"
               },
+              ".zl-rail-btn": {
+                "display": "none"
+              },
               ".zl-cat": {
                 "font-size": "19px",
                 "margin-top": "22px"
@@ -41264,6 +42829,12 @@
             },
             ".portal-footer-reminder.portal-footer-reminder h3, .footer-numbers-grid.footer-numbers-grid strong, .footer-numbers-grid.footer-numbers-grid a": {
               "color": "#fff !important"
+            },
+            "@media (max-width: 991px)": {
+              ".guide-block > .mbr-section-btn": {
+                "margin-left": "0 !important",
+                "margin-right": "0 !important"
+              }
             }
           },
           "_name": "article08",
@@ -41473,6 +43044,22 @@
                 "width": "auto !important",
                 "max-width": "none !important",
                 "margin": "0 !important"
+              },
+              ".lists-wrapper .item-wrap a": {
+                "overflow-wrap": "break-word !important"
+              }
+            },
+            "@media (min-width: 768px)": {
+              ".lists-wrapper": {
+                "display": "grid !important",
+                "grid-template-columns": "repeat(4, minmax(0, 1fr))",
+                "column-gap": "16px"
+              },
+              ".lists-wrapper .list-wrap": {
+                "width": "auto !important",
+                "max-width": "none !important",
+                "margin": "0 !important",
+                "min-width": "0"
               },
               ".lists-wrapper .item-wrap a": {
                 "overflow-wrap": "break-word !important"
@@ -42320,9 +43907,43 @@
               "display": "none"
             },
             ".zl-rail > .zl-tile": {
-              "flex": "0 0 calc((100% - 48px) / 4)",
+              "flex": "0 0 calc((100% - 48px) / 3.6)",
               "min-width": "230px",
               "scroll-snap-align": "start"
+            },
+            ".zl-rail-wrap": {
+              "position": "relative"
+            },
+            ".zl-rail-btn": {
+              "position": "absolute",
+              "top": "calc(50% - 30px)",
+              "z-index": "2",
+              "width": "44px",
+              "height": "44px",
+              "border-radius": "50%",
+              "border": "1px solid #e2e8f0",
+              "background": "#fff",
+              "color": "#0c2c68",
+              "display": "grid",
+              "place-items": "center",
+              "cursor": "pointer",
+              "box-shadow": "0 6px 18px rgba(15, 23, 42, .14)"
+            },
+            ".zl-rail-btn svg": {
+              "width": "20px",
+              "height": "20px"
+            },
+            ".zl-rail-btn:hover": {
+              "background": "#e0e7ff"
+            },
+            ".zl-rail-btn[hidden]": {
+              "display": "none"
+            },
+            ".zl-rail-prev": {
+              "left": "4px"
+            },
+            ".zl-rail-next": {
+              "right": "4px"
             },
             ".zl-rail .zl-tile h3": {
               "font-size": "17px"
@@ -42372,6 +43993,9 @@
                 "-webkit-line-clamp": "2",
                 "font-size": "14px"
               },
+              ".zl-rail-btn": {
+                "display": "none"
+              },
               ".zl-cat": {
                 "font-size": "19px",
                 "margin-top": "22px"
@@ -42410,6 +44034,12 @@
             },
             ".portal-footer-reminder.portal-footer-reminder h3, .footer-numbers-grid.footer-numbers-grid strong, .footer-numbers-grid.footer-numbers-grid a": {
               "color": "#fff !important"
+            },
+            "@media (max-width: 991px)": {
+              ".guide-block > .mbr-section-btn": {
+                "margin-left": "0 !important",
+                "margin-right": "0 !important"
+              }
             }
           },
           "_name": "article08",
@@ -42619,6 +44249,22 @@
                 "width": "auto !important",
                 "max-width": "none !important",
                 "margin": "0 !important"
+              },
+              ".lists-wrapper .item-wrap a": {
+                "overflow-wrap": "break-word !important"
+              }
+            },
+            "@media (min-width: 768px)": {
+              ".lists-wrapper": {
+                "display": "grid !important",
+                "grid-template-columns": "repeat(4, minmax(0, 1fr))",
+                "column-gap": "16px"
+              },
+              ".lists-wrapper .list-wrap": {
+                "width": "auto !important",
+                "max-width": "none !important",
+                "margin": "0 !important",
+                "min-width": "0"
               },
               ".lists-wrapper .item-wrap a": {
                 "overflow-wrap": "break-word !important"
@@ -43466,9 +45112,43 @@
               "display": "none"
             },
             ".zl-rail > .zl-tile": {
-              "flex": "0 0 calc((100% - 48px) / 4)",
+              "flex": "0 0 calc((100% - 48px) / 3.6)",
               "min-width": "230px",
               "scroll-snap-align": "start"
+            },
+            ".zl-rail-wrap": {
+              "position": "relative"
+            },
+            ".zl-rail-btn": {
+              "position": "absolute",
+              "top": "calc(50% - 30px)",
+              "z-index": "2",
+              "width": "44px",
+              "height": "44px",
+              "border-radius": "50%",
+              "border": "1px solid #e2e8f0",
+              "background": "#fff",
+              "color": "#0c2c68",
+              "display": "grid",
+              "place-items": "center",
+              "cursor": "pointer",
+              "box-shadow": "0 6px 18px rgba(15, 23, 42, .14)"
+            },
+            ".zl-rail-btn svg": {
+              "width": "20px",
+              "height": "20px"
+            },
+            ".zl-rail-btn:hover": {
+              "background": "#e0e7ff"
+            },
+            ".zl-rail-btn[hidden]": {
+              "display": "none"
+            },
+            ".zl-rail-prev": {
+              "left": "4px"
+            },
+            ".zl-rail-next": {
+              "right": "4px"
             },
             ".zl-rail .zl-tile h3": {
               "font-size": "17px"
@@ -43518,6 +45198,9 @@
                 "-webkit-line-clamp": "2",
                 "font-size": "14px"
               },
+              ".zl-rail-btn": {
+                "display": "none"
+              },
               ".zl-cat": {
                 "font-size": "19px",
                 "margin-top": "22px"
@@ -43556,6 +45239,12 @@
             },
             ".portal-footer-reminder.portal-footer-reminder h3, .footer-numbers-grid.footer-numbers-grid strong, .footer-numbers-grid.footer-numbers-grid a": {
               "color": "#fff !important"
+            },
+            "@media (max-width: 991px)": {
+              ".guide-block > .mbr-section-btn": {
+                "margin-left": "0 !important",
+                "margin-right": "0 !important"
+              }
             }
           },
           "_name": "article08",
@@ -43765,6 +45454,22 @@
                 "width": "auto !important",
                 "max-width": "none !important",
                 "margin": "0 !important"
+              },
+              ".lists-wrapper .item-wrap a": {
+                "overflow-wrap": "break-word !important"
+              }
+            },
+            "@media (min-width: 768px)": {
+              ".lists-wrapper": {
+                "display": "grid !important",
+                "grid-template-columns": "repeat(4, minmax(0, 1fr))",
+                "column-gap": "16px"
+              },
+              ".lists-wrapper .list-wrap": {
+                "width": "auto !important",
+                "max-width": "none !important",
+                "margin": "0 !important",
+                "min-width": "0"
               },
               ".lists-wrapper .item-wrap a": {
                 "overflow-wrap": "break-word !important"
@@ -44612,9 +46317,43 @@
               "display": "none"
             },
             ".zl-rail > .zl-tile": {
-              "flex": "0 0 calc((100% - 48px) / 4)",
+              "flex": "0 0 calc((100% - 48px) / 3.6)",
               "min-width": "230px",
               "scroll-snap-align": "start"
+            },
+            ".zl-rail-wrap": {
+              "position": "relative"
+            },
+            ".zl-rail-btn": {
+              "position": "absolute",
+              "top": "calc(50% - 30px)",
+              "z-index": "2",
+              "width": "44px",
+              "height": "44px",
+              "border-radius": "50%",
+              "border": "1px solid #e2e8f0",
+              "background": "#fff",
+              "color": "#0c2c68",
+              "display": "grid",
+              "place-items": "center",
+              "cursor": "pointer",
+              "box-shadow": "0 6px 18px rgba(15, 23, 42, .14)"
+            },
+            ".zl-rail-btn svg": {
+              "width": "20px",
+              "height": "20px"
+            },
+            ".zl-rail-btn:hover": {
+              "background": "#e0e7ff"
+            },
+            ".zl-rail-btn[hidden]": {
+              "display": "none"
+            },
+            ".zl-rail-prev": {
+              "left": "4px"
+            },
+            ".zl-rail-next": {
+              "right": "4px"
             },
             ".zl-rail .zl-tile h3": {
               "font-size": "17px"
@@ -44664,6 +46403,9 @@
                 "-webkit-line-clamp": "2",
                 "font-size": "14px"
               },
+              ".zl-rail-btn": {
+                "display": "none"
+              },
               ".zl-cat": {
                 "font-size": "19px",
                 "margin-top": "22px"
@@ -44702,6 +46444,12 @@
             },
             ".portal-footer-reminder.portal-footer-reminder h3, .footer-numbers-grid.footer-numbers-grid strong, .footer-numbers-grid.footer-numbers-grid a": {
               "color": "#fff !important"
+            },
+            "@media (max-width: 991px)": {
+              ".guide-block > .mbr-section-btn": {
+                "margin-left": "0 !important",
+                "margin-right": "0 !important"
+              }
             }
           },
           "_name": "article08",
@@ -44911,6 +46659,22 @@
                 "width": "auto !important",
                 "max-width": "none !important",
                 "margin": "0 !important"
+              },
+              ".lists-wrapper .item-wrap a": {
+                "overflow-wrap": "break-word !important"
+              }
+            },
+            "@media (min-width: 768px)": {
+              ".lists-wrapper": {
+                "display": "grid !important",
+                "grid-template-columns": "repeat(4, minmax(0, 1fr))",
+                "column-gap": "16px"
+              },
+              ".lists-wrapper .list-wrap": {
+                "width": "auto !important",
+                "max-width": "none !important",
+                "margin": "0 !important",
+                "min-width": "0"
               },
               ".lists-wrapper .item-wrap a": {
                 "overflow-wrap": "break-word !important"
@@ -45758,9 +47522,43 @@
               "display": "none"
             },
             ".zl-rail > .zl-tile": {
-              "flex": "0 0 calc((100% - 48px) / 4)",
+              "flex": "0 0 calc((100% - 48px) / 3.6)",
               "min-width": "230px",
               "scroll-snap-align": "start"
+            },
+            ".zl-rail-wrap": {
+              "position": "relative"
+            },
+            ".zl-rail-btn": {
+              "position": "absolute",
+              "top": "calc(50% - 30px)",
+              "z-index": "2",
+              "width": "44px",
+              "height": "44px",
+              "border-radius": "50%",
+              "border": "1px solid #e2e8f0",
+              "background": "#fff",
+              "color": "#0c2c68",
+              "display": "grid",
+              "place-items": "center",
+              "cursor": "pointer",
+              "box-shadow": "0 6px 18px rgba(15, 23, 42, .14)"
+            },
+            ".zl-rail-btn svg": {
+              "width": "20px",
+              "height": "20px"
+            },
+            ".zl-rail-btn:hover": {
+              "background": "#e0e7ff"
+            },
+            ".zl-rail-btn[hidden]": {
+              "display": "none"
+            },
+            ".zl-rail-prev": {
+              "left": "4px"
+            },
+            ".zl-rail-next": {
+              "right": "4px"
             },
             ".zl-rail .zl-tile h3": {
               "font-size": "17px"
@@ -45810,6 +47608,9 @@
                 "-webkit-line-clamp": "2",
                 "font-size": "14px"
               },
+              ".zl-rail-btn": {
+                "display": "none"
+              },
               ".zl-cat": {
                 "font-size": "19px",
                 "margin-top": "22px"
@@ -45848,6 +47649,12 @@
             },
             ".portal-footer-reminder.portal-footer-reminder h3, .footer-numbers-grid.footer-numbers-grid strong, .footer-numbers-grid.footer-numbers-grid a": {
               "color": "#fff !important"
+            },
+            "@media (max-width: 991px)": {
+              ".guide-block > .mbr-section-btn": {
+                "margin-left": "0 !important",
+                "margin-right": "0 !important"
+              }
             }
           },
           "_name": "article08",
@@ -46057,6 +47864,22 @@
                 "width": "auto !important",
                 "max-width": "none !important",
                 "margin": "0 !important"
+              },
+              ".lists-wrapper .item-wrap a": {
+                "overflow-wrap": "break-word !important"
+              }
+            },
+            "@media (min-width: 768px)": {
+              ".lists-wrapper": {
+                "display": "grid !important",
+                "grid-template-columns": "repeat(4, minmax(0, 1fr))",
+                "column-gap": "16px"
+              },
+              ".lists-wrapper .list-wrap": {
+                "width": "auto !important",
+                "max-width": "none !important",
+                "margin": "0 !important",
+                "min-width": "0"
               },
               ".lists-wrapper .item-wrap a": {
                 "overflow-wrap": "break-word !important"
@@ -46904,9 +48727,43 @@
               "display": "none"
             },
             ".zl-rail > .zl-tile": {
-              "flex": "0 0 calc((100% - 48px) / 4)",
+              "flex": "0 0 calc((100% - 48px) / 3.6)",
               "min-width": "230px",
               "scroll-snap-align": "start"
+            },
+            ".zl-rail-wrap": {
+              "position": "relative"
+            },
+            ".zl-rail-btn": {
+              "position": "absolute",
+              "top": "calc(50% - 30px)",
+              "z-index": "2",
+              "width": "44px",
+              "height": "44px",
+              "border-radius": "50%",
+              "border": "1px solid #e2e8f0",
+              "background": "#fff",
+              "color": "#0c2c68",
+              "display": "grid",
+              "place-items": "center",
+              "cursor": "pointer",
+              "box-shadow": "0 6px 18px rgba(15, 23, 42, .14)"
+            },
+            ".zl-rail-btn svg": {
+              "width": "20px",
+              "height": "20px"
+            },
+            ".zl-rail-btn:hover": {
+              "background": "#e0e7ff"
+            },
+            ".zl-rail-btn[hidden]": {
+              "display": "none"
+            },
+            ".zl-rail-prev": {
+              "left": "4px"
+            },
+            ".zl-rail-next": {
+              "right": "4px"
             },
             ".zl-rail .zl-tile h3": {
               "font-size": "17px"
@@ -46956,6 +48813,9 @@
                 "-webkit-line-clamp": "2",
                 "font-size": "14px"
               },
+              ".zl-rail-btn": {
+                "display": "none"
+              },
               ".zl-cat": {
                 "font-size": "19px",
                 "margin-top": "22px"
@@ -46994,6 +48854,12 @@
             },
             ".portal-footer-reminder.portal-footer-reminder h3, .footer-numbers-grid.footer-numbers-grid strong, .footer-numbers-grid.footer-numbers-grid a": {
               "color": "#fff !important"
+            },
+            "@media (max-width: 991px)": {
+              ".guide-block > .mbr-section-btn": {
+                "margin-left": "0 !important",
+                "margin-right": "0 !important"
+              }
             }
           },
           "_name": "article08",
@@ -47203,6 +49069,22 @@
                 "width": "auto !important",
                 "max-width": "none !important",
                 "margin": "0 !important"
+              },
+              ".lists-wrapper .item-wrap a": {
+                "overflow-wrap": "break-word !important"
+              }
+            },
+            "@media (min-width: 768px)": {
+              ".lists-wrapper": {
+                "display": "grid !important",
+                "grid-template-columns": "repeat(4, minmax(0, 1fr))",
+                "column-gap": "16px"
+              },
+              ".lists-wrapper .list-wrap": {
+                "width": "auto !important",
+                "max-width": "none !important",
+                "margin": "0 !important",
+                "min-width": "0"
               },
               ".lists-wrapper .item-wrap a": {
                 "overflow-wrap": "break-word !important"
@@ -48050,9 +49932,43 @@
               "display": "none"
             },
             ".zl-rail > .zl-tile": {
-              "flex": "0 0 calc((100% - 48px) / 4)",
+              "flex": "0 0 calc((100% - 48px) / 3.6)",
               "min-width": "230px",
               "scroll-snap-align": "start"
+            },
+            ".zl-rail-wrap": {
+              "position": "relative"
+            },
+            ".zl-rail-btn": {
+              "position": "absolute",
+              "top": "calc(50% - 30px)",
+              "z-index": "2",
+              "width": "44px",
+              "height": "44px",
+              "border-radius": "50%",
+              "border": "1px solid #e2e8f0",
+              "background": "#fff",
+              "color": "#0c2c68",
+              "display": "grid",
+              "place-items": "center",
+              "cursor": "pointer",
+              "box-shadow": "0 6px 18px rgba(15, 23, 42, .14)"
+            },
+            ".zl-rail-btn svg": {
+              "width": "20px",
+              "height": "20px"
+            },
+            ".zl-rail-btn:hover": {
+              "background": "#e0e7ff"
+            },
+            ".zl-rail-btn[hidden]": {
+              "display": "none"
+            },
+            ".zl-rail-prev": {
+              "left": "4px"
+            },
+            ".zl-rail-next": {
+              "right": "4px"
             },
             ".zl-rail .zl-tile h3": {
               "font-size": "17px"
@@ -48102,6 +50018,9 @@
                 "-webkit-line-clamp": "2",
                 "font-size": "14px"
               },
+              ".zl-rail-btn": {
+                "display": "none"
+              },
               ".zl-cat": {
                 "font-size": "19px",
                 "margin-top": "22px"
@@ -48140,6 +50059,12 @@
             },
             ".portal-footer-reminder.portal-footer-reminder h3, .footer-numbers-grid.footer-numbers-grid strong, .footer-numbers-grid.footer-numbers-grid a": {
               "color": "#fff !important"
+            },
+            "@media (max-width: 991px)": {
+              ".guide-block > .mbr-section-btn": {
+                "margin-left": "0 !important",
+                "margin-right": "0 !important"
+              }
             }
           },
           "_name": "article08",
@@ -48349,6 +50274,22 @@
                 "width": "auto !important",
                 "max-width": "none !important",
                 "margin": "0 !important"
+              },
+              ".lists-wrapper .item-wrap a": {
+                "overflow-wrap": "break-word !important"
+              }
+            },
+            "@media (min-width: 768px)": {
+              ".lists-wrapper": {
+                "display": "grid !important",
+                "grid-template-columns": "repeat(4, minmax(0, 1fr))",
+                "column-gap": "16px"
+              },
+              ".lists-wrapper .list-wrap": {
+                "width": "auto !important",
+                "max-width": "none !important",
+                "margin": "0 !important",
+                "min-width": "0"
               },
               ".lists-wrapper .item-wrap a": {
                 "overflow-wrap": "break-word !important"
@@ -49196,9 +51137,43 @@
               "display": "none"
             },
             ".zl-rail > .zl-tile": {
-              "flex": "0 0 calc((100% - 48px) / 4)",
+              "flex": "0 0 calc((100% - 48px) / 3.6)",
               "min-width": "230px",
               "scroll-snap-align": "start"
+            },
+            ".zl-rail-wrap": {
+              "position": "relative"
+            },
+            ".zl-rail-btn": {
+              "position": "absolute",
+              "top": "calc(50% - 30px)",
+              "z-index": "2",
+              "width": "44px",
+              "height": "44px",
+              "border-radius": "50%",
+              "border": "1px solid #e2e8f0",
+              "background": "#fff",
+              "color": "#0c2c68",
+              "display": "grid",
+              "place-items": "center",
+              "cursor": "pointer",
+              "box-shadow": "0 6px 18px rgba(15, 23, 42, .14)"
+            },
+            ".zl-rail-btn svg": {
+              "width": "20px",
+              "height": "20px"
+            },
+            ".zl-rail-btn:hover": {
+              "background": "#e0e7ff"
+            },
+            ".zl-rail-btn[hidden]": {
+              "display": "none"
+            },
+            ".zl-rail-prev": {
+              "left": "4px"
+            },
+            ".zl-rail-next": {
+              "right": "4px"
             },
             ".zl-rail .zl-tile h3": {
               "font-size": "17px"
@@ -49248,6 +51223,9 @@
                 "-webkit-line-clamp": "2",
                 "font-size": "14px"
               },
+              ".zl-rail-btn": {
+                "display": "none"
+              },
               ".zl-cat": {
                 "font-size": "19px",
                 "margin-top": "22px"
@@ -49286,6 +51264,12 @@
             },
             ".portal-footer-reminder.portal-footer-reminder h3, .footer-numbers-grid.footer-numbers-grid strong, .footer-numbers-grid.footer-numbers-grid a": {
               "color": "#fff !important"
+            },
+            "@media (max-width: 991px)": {
+              ".guide-block > .mbr-section-btn": {
+                "margin-left": "0 !important",
+                "margin-right": "0 !important"
+              }
             }
           },
           "_name": "article08",
@@ -49495,6 +51479,22 @@
                 "width": "auto !important",
                 "max-width": "none !important",
                 "margin": "0 !important"
+              },
+              ".lists-wrapper .item-wrap a": {
+                "overflow-wrap": "break-word !important"
+              }
+            },
+            "@media (min-width: 768px)": {
+              ".lists-wrapper": {
+                "display": "grid !important",
+                "grid-template-columns": "repeat(4, minmax(0, 1fr))",
+                "column-gap": "16px"
+              },
+              ".lists-wrapper .list-wrap": {
+                "width": "auto !important",
+                "max-width": "none !important",
+                "margin": "0 !important",
+                "min-width": "0"
               },
               ".lists-wrapper .item-wrap a": {
                 "overflow-wrap": "break-word !important"
@@ -50342,9 +52342,43 @@
               "display": "none"
             },
             ".zl-rail > .zl-tile": {
-              "flex": "0 0 calc((100% - 48px) / 4)",
+              "flex": "0 0 calc((100% - 48px) / 3.6)",
               "min-width": "230px",
               "scroll-snap-align": "start"
+            },
+            ".zl-rail-wrap": {
+              "position": "relative"
+            },
+            ".zl-rail-btn": {
+              "position": "absolute",
+              "top": "calc(50% - 30px)",
+              "z-index": "2",
+              "width": "44px",
+              "height": "44px",
+              "border-radius": "50%",
+              "border": "1px solid #e2e8f0",
+              "background": "#fff",
+              "color": "#0c2c68",
+              "display": "grid",
+              "place-items": "center",
+              "cursor": "pointer",
+              "box-shadow": "0 6px 18px rgba(15, 23, 42, .14)"
+            },
+            ".zl-rail-btn svg": {
+              "width": "20px",
+              "height": "20px"
+            },
+            ".zl-rail-btn:hover": {
+              "background": "#e0e7ff"
+            },
+            ".zl-rail-btn[hidden]": {
+              "display": "none"
+            },
+            ".zl-rail-prev": {
+              "left": "4px"
+            },
+            ".zl-rail-next": {
+              "right": "4px"
             },
             ".zl-rail .zl-tile h3": {
               "font-size": "17px"
@@ -50394,6 +52428,9 @@
                 "-webkit-line-clamp": "2",
                 "font-size": "14px"
               },
+              ".zl-rail-btn": {
+                "display": "none"
+              },
               ".zl-cat": {
                 "font-size": "19px",
                 "margin-top": "22px"
@@ -50432,6 +52469,12 @@
             },
             ".portal-footer-reminder.portal-footer-reminder h3, .footer-numbers-grid.footer-numbers-grid strong, .footer-numbers-grid.footer-numbers-grid a": {
               "color": "#fff !important"
+            },
+            "@media (max-width: 991px)": {
+              ".guide-block > .mbr-section-btn": {
+                "margin-left": "0 !important",
+                "margin-right": "0 !important"
+              }
             }
           },
           "_name": "article08",
@@ -50641,6 +52684,22 @@
                 "width": "auto !important",
                 "max-width": "none !important",
                 "margin": "0 !important"
+              },
+              ".lists-wrapper .item-wrap a": {
+                "overflow-wrap": "break-word !important"
+              }
+            },
+            "@media (min-width: 768px)": {
+              ".lists-wrapper": {
+                "display": "grid !important",
+                "grid-template-columns": "repeat(4, minmax(0, 1fr))",
+                "column-gap": "16px"
+              },
+              ".lists-wrapper .list-wrap": {
+                "width": "auto !important",
+                "max-width": "none !important",
+                "margin": "0 !important",
+                "min-width": "0"
               },
               ".lists-wrapper .item-wrap a": {
                 "overflow-wrap": "break-word !important"
@@ -51488,9 +53547,43 @@
               "display": "none"
             },
             ".zl-rail > .zl-tile": {
-              "flex": "0 0 calc((100% - 48px) / 4)",
+              "flex": "0 0 calc((100% - 48px) / 3.6)",
               "min-width": "230px",
               "scroll-snap-align": "start"
+            },
+            ".zl-rail-wrap": {
+              "position": "relative"
+            },
+            ".zl-rail-btn": {
+              "position": "absolute",
+              "top": "calc(50% - 30px)",
+              "z-index": "2",
+              "width": "44px",
+              "height": "44px",
+              "border-radius": "50%",
+              "border": "1px solid #e2e8f0",
+              "background": "#fff",
+              "color": "#0c2c68",
+              "display": "grid",
+              "place-items": "center",
+              "cursor": "pointer",
+              "box-shadow": "0 6px 18px rgba(15, 23, 42, .14)"
+            },
+            ".zl-rail-btn svg": {
+              "width": "20px",
+              "height": "20px"
+            },
+            ".zl-rail-btn:hover": {
+              "background": "#e0e7ff"
+            },
+            ".zl-rail-btn[hidden]": {
+              "display": "none"
+            },
+            ".zl-rail-prev": {
+              "left": "4px"
+            },
+            ".zl-rail-next": {
+              "right": "4px"
             },
             ".zl-rail .zl-tile h3": {
               "font-size": "17px"
@@ -51540,6 +53633,9 @@
                 "-webkit-line-clamp": "2",
                 "font-size": "14px"
               },
+              ".zl-rail-btn": {
+                "display": "none"
+              },
               ".zl-cat": {
                 "font-size": "19px",
                 "margin-top": "22px"
@@ -51578,6 +53674,12 @@
             },
             ".portal-footer-reminder.portal-footer-reminder h3, .footer-numbers-grid.footer-numbers-grid strong, .footer-numbers-grid.footer-numbers-grid a": {
               "color": "#fff !important"
+            },
+            "@media (max-width: 991px)": {
+              ".guide-block > .mbr-section-btn": {
+                "margin-left": "0 !important",
+                "margin-right": "0 !important"
+              }
             }
           },
           "_name": "article08",
@@ -51787,6 +53889,22 @@
                 "width": "auto !important",
                 "max-width": "none !important",
                 "margin": "0 !important"
+              },
+              ".lists-wrapper .item-wrap a": {
+                "overflow-wrap": "break-word !important"
+              }
+            },
+            "@media (min-width: 768px)": {
+              ".lists-wrapper": {
+                "display": "grid !important",
+                "grid-template-columns": "repeat(4, minmax(0, 1fr))",
+                "column-gap": "16px"
+              },
+              ".lists-wrapper .list-wrap": {
+                "width": "auto !important",
+                "max-width": "none !important",
+                "margin": "0 !important",
+                "min-width": "0"
               },
               ".lists-wrapper .item-wrap a": {
                 "overflow-wrap": "break-word !important"
@@ -52634,9 +54752,43 @@
               "display": "none"
             },
             ".zl-rail > .zl-tile": {
-              "flex": "0 0 calc((100% - 48px) / 4)",
+              "flex": "0 0 calc((100% - 48px) / 3.6)",
               "min-width": "230px",
               "scroll-snap-align": "start"
+            },
+            ".zl-rail-wrap": {
+              "position": "relative"
+            },
+            ".zl-rail-btn": {
+              "position": "absolute",
+              "top": "calc(50% - 30px)",
+              "z-index": "2",
+              "width": "44px",
+              "height": "44px",
+              "border-radius": "50%",
+              "border": "1px solid #e2e8f0",
+              "background": "#fff",
+              "color": "#0c2c68",
+              "display": "grid",
+              "place-items": "center",
+              "cursor": "pointer",
+              "box-shadow": "0 6px 18px rgba(15, 23, 42, .14)"
+            },
+            ".zl-rail-btn svg": {
+              "width": "20px",
+              "height": "20px"
+            },
+            ".zl-rail-btn:hover": {
+              "background": "#e0e7ff"
+            },
+            ".zl-rail-btn[hidden]": {
+              "display": "none"
+            },
+            ".zl-rail-prev": {
+              "left": "4px"
+            },
+            ".zl-rail-next": {
+              "right": "4px"
             },
             ".zl-rail .zl-tile h3": {
               "font-size": "17px"
@@ -52686,6 +54838,9 @@
                 "-webkit-line-clamp": "2",
                 "font-size": "14px"
               },
+              ".zl-rail-btn": {
+                "display": "none"
+              },
               ".zl-cat": {
                 "font-size": "19px",
                 "margin-top": "22px"
@@ -52724,6 +54879,12 @@
             },
             ".portal-footer-reminder.portal-footer-reminder h3, .footer-numbers-grid.footer-numbers-grid strong, .footer-numbers-grid.footer-numbers-grid a": {
               "color": "#fff !important"
+            },
+            "@media (max-width: 991px)": {
+              ".guide-block > .mbr-section-btn": {
+                "margin-left": "0 !important",
+                "margin-right": "0 !important"
+              }
             }
           },
           "_name": "article08",
@@ -52933,6 +55094,22 @@
                 "width": "auto !important",
                 "max-width": "none !important",
                 "margin": "0 !important"
+              },
+              ".lists-wrapper .item-wrap a": {
+                "overflow-wrap": "break-word !important"
+              }
+            },
+            "@media (min-width: 768px)": {
+              ".lists-wrapper": {
+                "display": "grid !important",
+                "grid-template-columns": "repeat(4, minmax(0, 1fr))",
+                "column-gap": "16px"
+              },
+              ".lists-wrapper .list-wrap": {
+                "width": "auto !important",
+                "max-width": "none !important",
+                "margin": "0 !important",
+                "min-width": "0"
               },
               ".lists-wrapper .item-wrap a": {
                 "overflow-wrap": "break-word !important"
@@ -53780,9 +55957,43 @@
               "display": "none"
             },
             ".zl-rail > .zl-tile": {
-              "flex": "0 0 calc((100% - 48px) / 4)",
+              "flex": "0 0 calc((100% - 48px) / 3.6)",
               "min-width": "230px",
               "scroll-snap-align": "start"
+            },
+            ".zl-rail-wrap": {
+              "position": "relative"
+            },
+            ".zl-rail-btn": {
+              "position": "absolute",
+              "top": "calc(50% - 30px)",
+              "z-index": "2",
+              "width": "44px",
+              "height": "44px",
+              "border-radius": "50%",
+              "border": "1px solid #e2e8f0",
+              "background": "#fff",
+              "color": "#0c2c68",
+              "display": "grid",
+              "place-items": "center",
+              "cursor": "pointer",
+              "box-shadow": "0 6px 18px rgba(15, 23, 42, .14)"
+            },
+            ".zl-rail-btn svg": {
+              "width": "20px",
+              "height": "20px"
+            },
+            ".zl-rail-btn:hover": {
+              "background": "#e0e7ff"
+            },
+            ".zl-rail-btn[hidden]": {
+              "display": "none"
+            },
+            ".zl-rail-prev": {
+              "left": "4px"
+            },
+            ".zl-rail-next": {
+              "right": "4px"
             },
             ".zl-rail .zl-tile h3": {
               "font-size": "17px"
@@ -53832,6 +56043,9 @@
                 "-webkit-line-clamp": "2",
                 "font-size": "14px"
               },
+              ".zl-rail-btn": {
+                "display": "none"
+              },
               ".zl-cat": {
                 "font-size": "19px",
                 "margin-top": "22px"
@@ -53870,6 +56084,12 @@
             },
             ".portal-footer-reminder.portal-footer-reminder h3, .footer-numbers-grid.footer-numbers-grid strong, .footer-numbers-grid.footer-numbers-grid a": {
               "color": "#fff !important"
+            },
+            "@media (max-width: 991px)": {
+              ".guide-block > .mbr-section-btn": {
+                "margin-left": "0 !important",
+                "margin-right": "0 !important"
+              }
             }
           },
           "_name": "article08",
@@ -54079,6 +56299,22 @@
                 "width": "auto !important",
                 "max-width": "none !important",
                 "margin": "0 !important"
+              },
+              ".lists-wrapper .item-wrap a": {
+                "overflow-wrap": "break-word !important"
+              }
+            },
+            "@media (min-width: 768px)": {
+              ".lists-wrapper": {
+                "display": "grid !important",
+                "grid-template-columns": "repeat(4, minmax(0, 1fr))",
+                "column-gap": "16px"
+              },
+              ".lists-wrapper .list-wrap": {
+                "width": "auto !important",
+                "max-width": "none !important",
+                "margin": "0 !important",
+                "min-width": "0"
               },
               ".lists-wrapper .item-wrap a": {
                 "overflow-wrap": "break-word !important"
@@ -54926,9 +57162,43 @@
               "display": "none"
             },
             ".zl-rail > .zl-tile": {
-              "flex": "0 0 calc((100% - 48px) / 4)",
+              "flex": "0 0 calc((100% - 48px) / 3.6)",
               "min-width": "230px",
               "scroll-snap-align": "start"
+            },
+            ".zl-rail-wrap": {
+              "position": "relative"
+            },
+            ".zl-rail-btn": {
+              "position": "absolute",
+              "top": "calc(50% - 30px)",
+              "z-index": "2",
+              "width": "44px",
+              "height": "44px",
+              "border-radius": "50%",
+              "border": "1px solid #e2e8f0",
+              "background": "#fff",
+              "color": "#0c2c68",
+              "display": "grid",
+              "place-items": "center",
+              "cursor": "pointer",
+              "box-shadow": "0 6px 18px rgba(15, 23, 42, .14)"
+            },
+            ".zl-rail-btn svg": {
+              "width": "20px",
+              "height": "20px"
+            },
+            ".zl-rail-btn:hover": {
+              "background": "#e0e7ff"
+            },
+            ".zl-rail-btn[hidden]": {
+              "display": "none"
+            },
+            ".zl-rail-prev": {
+              "left": "4px"
+            },
+            ".zl-rail-next": {
+              "right": "4px"
             },
             ".zl-rail .zl-tile h3": {
               "font-size": "17px"
@@ -54978,6 +57248,9 @@
                 "-webkit-line-clamp": "2",
                 "font-size": "14px"
               },
+              ".zl-rail-btn": {
+                "display": "none"
+              },
               ".zl-cat": {
                 "font-size": "19px",
                 "margin-top": "22px"
@@ -55016,6 +57289,12 @@
             },
             ".portal-footer-reminder.portal-footer-reminder h3, .footer-numbers-grid.footer-numbers-grid strong, .footer-numbers-grid.footer-numbers-grid a": {
               "color": "#fff !important"
+            },
+            "@media (max-width: 991px)": {
+              ".guide-block > .mbr-section-btn": {
+                "margin-left": "0 !important",
+                "margin-right": "0 !important"
+              }
             }
           },
           "_name": "article08",
@@ -55225,6 +57504,22 @@
                 "width": "auto !important",
                 "max-width": "none !important",
                 "margin": "0 !important"
+              },
+              ".lists-wrapper .item-wrap a": {
+                "overflow-wrap": "break-word !important"
+              }
+            },
+            "@media (min-width: 768px)": {
+              ".lists-wrapper": {
+                "display": "grid !important",
+                "grid-template-columns": "repeat(4, minmax(0, 1fr))",
+                "column-gap": "16px"
+              },
+              ".lists-wrapper .list-wrap": {
+                "width": "auto !important",
+                "max-width": "none !important",
+                "margin": "0 !important",
+                "min-width": "0"
               },
               ".lists-wrapper .item-wrap a": {
                 "overflow-wrap": "break-word !important"
@@ -56072,9 +58367,43 @@
               "display": "none"
             },
             ".zl-rail > .zl-tile": {
-              "flex": "0 0 calc((100% - 48px) / 4)",
+              "flex": "0 0 calc((100% - 48px) / 3.6)",
               "min-width": "230px",
               "scroll-snap-align": "start"
+            },
+            ".zl-rail-wrap": {
+              "position": "relative"
+            },
+            ".zl-rail-btn": {
+              "position": "absolute",
+              "top": "calc(50% - 30px)",
+              "z-index": "2",
+              "width": "44px",
+              "height": "44px",
+              "border-radius": "50%",
+              "border": "1px solid #e2e8f0",
+              "background": "#fff",
+              "color": "#0c2c68",
+              "display": "grid",
+              "place-items": "center",
+              "cursor": "pointer",
+              "box-shadow": "0 6px 18px rgba(15, 23, 42, .14)"
+            },
+            ".zl-rail-btn svg": {
+              "width": "20px",
+              "height": "20px"
+            },
+            ".zl-rail-btn:hover": {
+              "background": "#e0e7ff"
+            },
+            ".zl-rail-btn[hidden]": {
+              "display": "none"
+            },
+            ".zl-rail-prev": {
+              "left": "4px"
+            },
+            ".zl-rail-next": {
+              "right": "4px"
             },
             ".zl-rail .zl-tile h3": {
               "font-size": "17px"
@@ -56124,6 +58453,9 @@
                 "-webkit-line-clamp": "2",
                 "font-size": "14px"
               },
+              ".zl-rail-btn": {
+                "display": "none"
+              },
               ".zl-cat": {
                 "font-size": "19px",
                 "margin-top": "22px"
@@ -56162,6 +58494,12 @@
             },
             ".portal-footer-reminder.portal-footer-reminder h3, .footer-numbers-grid.footer-numbers-grid strong, .footer-numbers-grid.footer-numbers-grid a": {
               "color": "#fff !important"
+            },
+            "@media (max-width: 991px)": {
+              ".guide-block > .mbr-section-btn": {
+                "margin-left": "0 !important",
+                "margin-right": "0 !important"
+              }
             }
           },
           "_name": "article08",
@@ -56371,6 +58709,22 @@
                 "width": "auto !important",
                 "max-width": "none !important",
                 "margin": "0 !important"
+              },
+              ".lists-wrapper .item-wrap a": {
+                "overflow-wrap": "break-word !important"
+              }
+            },
+            "@media (min-width: 768px)": {
+              ".lists-wrapper": {
+                "display": "grid !important",
+                "grid-template-columns": "repeat(4, minmax(0, 1fr))",
+                "column-gap": "16px"
+              },
+              ".lists-wrapper .list-wrap": {
+                "width": "auto !important",
+                "max-width": "none !important",
+                "margin": "0 !important",
+                "min-width": "0"
               },
               ".lists-wrapper .item-wrap a": {
                 "overflow-wrap": "break-word !important"
@@ -57218,9 +59572,43 @@
               "display": "none"
             },
             ".zl-rail > .zl-tile": {
-              "flex": "0 0 calc((100% - 48px) / 4)",
+              "flex": "0 0 calc((100% - 48px) / 3.6)",
               "min-width": "230px",
               "scroll-snap-align": "start"
+            },
+            ".zl-rail-wrap": {
+              "position": "relative"
+            },
+            ".zl-rail-btn": {
+              "position": "absolute",
+              "top": "calc(50% - 30px)",
+              "z-index": "2",
+              "width": "44px",
+              "height": "44px",
+              "border-radius": "50%",
+              "border": "1px solid #e2e8f0",
+              "background": "#fff",
+              "color": "#0c2c68",
+              "display": "grid",
+              "place-items": "center",
+              "cursor": "pointer",
+              "box-shadow": "0 6px 18px rgba(15, 23, 42, .14)"
+            },
+            ".zl-rail-btn svg": {
+              "width": "20px",
+              "height": "20px"
+            },
+            ".zl-rail-btn:hover": {
+              "background": "#e0e7ff"
+            },
+            ".zl-rail-btn[hidden]": {
+              "display": "none"
+            },
+            ".zl-rail-prev": {
+              "left": "4px"
+            },
+            ".zl-rail-next": {
+              "right": "4px"
             },
             ".zl-rail .zl-tile h3": {
               "font-size": "17px"
@@ -57270,6 +59658,9 @@
                 "-webkit-line-clamp": "2",
                 "font-size": "14px"
               },
+              ".zl-rail-btn": {
+                "display": "none"
+              },
               ".zl-cat": {
                 "font-size": "19px",
                 "margin-top": "22px"
@@ -57308,6 +59699,12 @@
             },
             ".portal-footer-reminder.portal-footer-reminder h3, .footer-numbers-grid.footer-numbers-grid strong, .footer-numbers-grid.footer-numbers-grid a": {
               "color": "#fff !important"
+            },
+            "@media (max-width: 991px)": {
+              ".guide-block > .mbr-section-btn": {
+                "margin-left": "0 !important",
+                "margin-right": "0 !important"
+              }
             }
           },
           "_name": "article08",
@@ -57517,6 +59914,22 @@
                 "width": "auto !important",
                 "max-width": "none !important",
                 "margin": "0 !important"
+              },
+              ".lists-wrapper .item-wrap a": {
+                "overflow-wrap": "break-word !important"
+              }
+            },
+            "@media (min-width: 768px)": {
+              ".lists-wrapper": {
+                "display": "grid !important",
+                "grid-template-columns": "repeat(4, minmax(0, 1fr))",
+                "column-gap": "16px"
+              },
+              ".lists-wrapper .list-wrap": {
+                "width": "auto !important",
+                "max-width": "none !important",
+                "margin": "0 !important",
+                "min-width": "0"
               },
               ".lists-wrapper .item-wrap a": {
                 "overflow-wrap": "break-word !important"

@@ -66,7 +66,34 @@
     el.setAttribute('role', 'region');
     var h = el.previousElementSibling;
     if (h) el.setAttribute('aria-label', h.textContent.replace(/\s+\d+$/, '').trim());
+    railButtons(el);
   });
+
+  // 5. Rails get previous/next buttons, so cards hidden to the side are easy to find.
+  function railButtons(rail) {
+    var names = { en: ['Previous', 'Next'], de: ['Zurück', 'Weiter'], uk: ['Назад', 'Далі'] }[lang] || ['Previous', 'Next'];
+    var wrap = document.createElement('div');
+    wrap.className = 'zl-rail-wrap';
+    rail.parentNode.insertBefore(wrap, rail);
+    wrap.appendChild(rail);
+    var btns = [-1, 1].map(function (dir, i) {
+      var b = document.createElement('button');
+      b.type = 'button';
+      b.className = 'zl-rail-btn ' + (dir < 0 ? 'zl-rail-prev' : 'zl-rail-next');
+      b.setAttribute('aria-label', names[i] + ': ' + (rail.getAttribute('aria-label') || ''));
+      b.innerHTML = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="' + (dir < 0 ? 'M15 18l-6-6 6-6' : 'M9 18l6-6-6-6') + '"/></svg>';
+      b.addEventListener('click', function () { rail.scrollBy({ left: dir * rail.clientWidth * 0.8, behavior: 'smooth' }); });
+      wrap.appendChild(b);
+      return b;
+    });
+    function update() {
+      btns[0].hidden = rail.scrollLeft < 8;
+      btns[1].hidden = rail.scrollLeft + rail.clientWidth >= rail.scrollWidth - 8;
+    }
+    rail.addEventListener('scroll', update, { passive: true });
+    window.addEventListener('resize', update);
+    update();
+  }
   if (document.readyState === 'complete') compact();
   else window.addEventListener('load', compact);
 })();

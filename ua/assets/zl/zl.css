@@ -64,6 +64,14 @@ html::-webkit-scrollbar, body::-webkit-scrollbar { display: none; }
   .menu1 button.navbar-toggler .hamburger { position: relative; width: 26px; height: 18px; }
 }
 .footer01 .item-wrap a { word-break: normal !important; overflow-wrap: normal !important; hyphens: auto; -webkit-hyphens: auto; }
+/* Tablets: Mobirise button rows have negative side margins that push the page 2px wider */
+@media (max-width: 991px) { .guide-block > .mbr-section-btn { margin-left: 0 !important; margin-right: 0 !important; } }
+/* Desktop footer: four equal columns, so long German link texts wrap instead of pushing the page wider */
+@media (min-width: 768px) {
+  .footer01 .lists-wrapper { display: grid !important; grid-template-columns: repeat(4, minmax(0, 1fr)); column-gap: 16px; }
+  .footer01 .lists-wrapper .list-wrap { width: auto !important; max-width: none !important; margin: 0 !important; min-width: 0; }
+  .footer01 .lists-wrapper .item-wrap a { overflow-wrap: break-word !important; }
+}
 .footer01 .soc-item a { display: inline-flex; align-items: center; justify-content: center; min-width: 44px; min-height: 44px; }
 
 /* Long buttons wrap instead of running off the screen on phones */
@@ -172,7 +180,14 @@ html::-webkit-scrollbar, body::-webkit-scrollbar { display: none; }
 .zl-count { display: inline-grid; place-items: center; min-width: 28px; height: 28px; padding: 0 8px; border-radius: 999px; background: #e0e7ff; color: #0c2c68; font-size: 14px; font-weight: 700; }
 .zl-rail { display: flex; gap: 16px; overflow-x: auto; scroll-snap-type: x mandatory; overscroll-behavior-x: contain; padding: 4px 2px 16px; scrollbar-width: none; }
 .zl-rail::-webkit-scrollbar { display: none; }
-.zl-rail > .zl-tile { flex: 0 0 calc((100% - 48px) / 4); min-width: 230px; scroll-snap-align: start; }
+.zl-rail > .zl-tile { flex: 0 0 calc((100% - 48px) / 3.6); min-width: 230px; scroll-snap-align: start; }
+.zl-rail-wrap { position: relative; }
+.zl-rail-btn { position: absolute; top: calc(50% - 30px); z-index: 2; width: 44px; height: 44px; border-radius: 50%; border: 1px solid var(--zl-line); background: #fff; color: var(--zl-navy); display: grid; place-items: center; cursor: pointer; box-shadow: 0 6px 18px rgba(15, 23, 42, .14); }
+.zl-rail-btn svg { width: 20px; height: 20px; }
+.zl-rail-btn:hover { background: #e0e7ff; }
+.zl-rail-btn[hidden] { display: none; }
+.zl-rail-prev { left: 4px; }
+.zl-rail-next { right: 4px; }
 .zl-rail .zl-tile h3 { font-size: 17px; }
 .zl-rail .zl-tile p { display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
 .zl-comm-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 16px; margin: 6px 0 0; }
@@ -190,6 +205,7 @@ html::-webkit-scrollbar, body::-webkit-scrollbar { display: none; }
   .zl-grid .zl-ico { width: 34px; height: 34px; }
   .zl-rail > .zl-tile { flex-basis: 72%; min-width: 0; padding: 14px; }
   .zl-rail .zl-tile p { -webkit-line-clamp: 2; font-size: 14px; }
+  .zl-rail-btn { display: none; }
   .zl-cat { font-size: 19px; margin-top: 22px; }
   .zl-comm-grid { gap: 10px; }
   .zl-comm-grid .zl-tile { padding: 16px; }
