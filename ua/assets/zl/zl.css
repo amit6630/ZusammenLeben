@@ -66,9 +66,9 @@ html::-webkit-scrollbar, body::-webkit-scrollbar { display: none; }
 .footer01 .item-wrap a { word-break: normal !important; overflow-wrap: normal !important; hyphens: auto; -webkit-hyphens: auto; }
 /* Tablets: Mobirise button rows have negative side margins that push the page 2px wider */
 @media (max-width: 991px) { .guide-block > .mbr-section-btn { margin-left: 0 !important; margin-right: 0 !important; } }
-/* Desktop footer: four equal columns, so long German link texts wrap instead of pushing the page wider */
+/* Desktop and tablet footer: the four link lists sit in two rows of two, so long German words never break */
 @media (min-width: 768px) {
-  .footer01 .lists-wrapper { display: grid !important; grid-template-columns: repeat(4, minmax(0, 1fr)); column-gap: 16px; }
+  .footer01 .lists-wrapper { display: grid !important; grid-template-columns: repeat(2, minmax(0, 1fr)); column-gap: 32px; row-gap: 20px; }
   .footer01 .lists-wrapper .list-wrap { width: auto !important; max-width: none !important; margin: 0 !important; min-width: 0; }
   .footer01 .lists-wrapper .item-wrap a { overflow-wrap: break-word !important; }
 }
