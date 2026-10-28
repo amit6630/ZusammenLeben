@@ -168,6 +168,13 @@ html::-webkit-scrollbar, body::-webkit-scrollbar { display: none; }
 .zl-ico svg { width: 22px; height: 22px; }
 .zl-hub-head { margin-bottom: 26px; max-width: 760px; }
 .zl-hub-head .zl-lead { margin-bottom: 0; }
+.zl-cat { display: flex; align-items: center; gap: 10px; font-size: 22px; font-weight: 750; color: #0f172a; margin: 28px 0 12px; }
+.zl-count { display: inline-grid; place-items: center; min-width: 28px; height: 28px; padding: 0 8px; border-radius: 999px; background: #e0e7ff; color: #0c2c68; font-size: 14px; font-weight: 700; }
+.zl-rail { display: flex; gap: 16px; overflow-x: auto; scroll-snap-type: x mandatory; overscroll-behavior-x: contain; padding: 4px 2px 16px; scrollbar-width: none; }
+.zl-rail::-webkit-scrollbar { display: none; }
+.zl-rail > .zl-tile { flex: 0 0 calc((100% - 48px) / 4); min-width: 230px; scroll-snap-align: start; }
+.zl-rail .zl-tile h3 { font-size: 17px; }
+.zl-rail .zl-tile p { display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
 .zl-comm-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 16px; margin: 6px 0 0; }
 .zl-comm-grid .zl-tile:hover { transform: none; box-shadow: none; border-color: var(--zl-line); }
 @media (max-width: 767px) {
@@ -181,6 +188,9 @@ html::-webkit-scrollbar, body::-webkit-scrollbar { display: none; }
   .zl-grid .zl-tile p, .zl-grid .zl-tile .zl-more { display: none; }
   .zl-grid .zl-tile h2, .zl-grid .zl-tile h3 { font-size: 15px; }
   .zl-grid .zl-ico { width: 34px; height: 34px; }
+  .zl-rail > .zl-tile { flex-basis: 72%; min-width: 0; padding: 14px; }
+  .zl-rail .zl-tile p { -webkit-line-clamp: 2; font-size: 14px; }
+  .zl-cat { font-size: 19px; margin-top: 22px; }
   .zl-comm-grid { gap: 10px; }
   .zl-comm-grid .zl-tile { padding: 16px; }
 }

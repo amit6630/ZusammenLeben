@@ -26,7 +26,7 @@
 
   // 3. Swipe rails and scroll boxes (zl.css, phones) must be reachable by keyboard.
   var regionLabel = { en: 'Scrollable list', de: 'Scrollbare Liste', uk: 'Список, який можна прокручувати' };
-  var scrollers = '.services-grid, .team-grid, .transparency-grid, .pillars-grid, .three-column-grid, .grid-3, .grid-2, .faq-grid, .survival-grid, .portal-grid-2, .city-directory-grid, .details-cards-stack, .two-column-grid, .levels-grid, .cert-grid, .benefits-grid, .links-grid, .timeline-wrapper, .word-grid';
+  var scrollers = '.services-grid, .team-grid, .transparency-grid, .pillars-grid, .three-column-grid, .grid-3, .grid-2, .faq-grid, .survival-grid, .portal-grid-2, .city-directory-grid, .details-cards-stack, .two-column-grid, .levels-grid, .cert-grid, .benefits-grid, .links-grid, .timeline-wrapper, .word-grid, .zl-rail';
 
   // 4. On phones, long text cards are collapsed behind a "read more" button.
   var more = { en: ['Read more', 'Show less'], de: ['Weiterlesen', 'Weniger anzeigen'], uk: ['Читати далі', 'Згорнути'] }[lang] || ['Read more', 'Show less'];
@@ -61,6 +61,12 @@
       el.insertAdjacentElement('afterend', b);
     });
   }
+  document.querySelectorAll('.zl-rail').forEach(function (el) {
+    el.setAttribute('tabindex', '0');
+    el.setAttribute('role', 'region');
+    var h = el.previousElementSibling;
+    if (h) el.setAttribute('aria-label', h.textContent.replace(/\s+\d+$/, '').trim());
+  });
   if (document.readyState === 'complete') compact();
   else window.addEventListener('load', compact);
 })();
