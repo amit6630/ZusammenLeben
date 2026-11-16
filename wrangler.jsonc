@@ -1,0 +1,13 @@
+{
+  // Static site on Cloudflare Workers static assets (moved from GitHub Pages 2026-11-15).
+  // Deploy from this folder: npx wrangler deploy
+  // html_handling "none" keeps the .html URLs; _worker.js handles misses (/dir/, /page -> /page.html, 404).
+  // Files that must not be public are listed in .assetsignore.
+  "name": "zusammenleben",
+  "main": "_worker.js",
+  "compatibility_date": "2026-10-19",
+  "assets": { "directory": ".", "binding": "ASSETS", "html_handling": "none", "not_found_handling": "none", "run_worker_first": true },
+  "routes": [ { "pattern": "zusammenleben-ukraine.de/*", "zone_name": "zusammenleben-ukraine.de" }, { "pattern": "www.zusammenleben-ukraine.de/*", "zone_name": "zusammenleben-ukraine.de" } ],
+  "workers_dev": true,
+  "preview_urls": false
+}
